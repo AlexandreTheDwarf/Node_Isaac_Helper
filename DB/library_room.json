@@ -1,0 +1,122 @@
+[
+    {
+        "id": "33",
+        "name": "The Bible",
+        "description": "Lors de son utilisation, Isaac obtient la capacité de voler pour la pièce actuelle. Tue instantanément Maman, le Cœur de Maman et le bébé lorsqu'il est activé, mais tue Isaac lorsqu'il est utilisé sur Satan.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/The_Bible.webp"
+    },
+    {
+        "id": "34",
+        "name": "The Book of Belial",
+        "description": "+2 de dégâts pour la pièce actuelle. Garantit passivement qu'une Salle du Diable ou une Salle de l'Ange apparaîtra tant qu'il est en possession.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/The_Book_of_Belial.webp"
+    },
+    {
+        "id": "35",
+        "name": "The Necronomicon",
+        "description": "Inflige 40 dégâts à chaque ennemi dans la pièce.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/The_Necronomicon.webp"
+    },
+    {
+        "id": "58",
+        "name": "Book of Shadows",
+        "description": "Crée un bouclier protecteur, annulant tous les types de dégâts dans la pièce actuelle pendant 10 secondes.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/Book_of_Shadows.webp"
+    },
+    {
+        "id": "65",
+        "name": "Anarchist Cookbook",
+        "description": "Fait apparaître six bombes de troll dans la pièce.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/Anarchist_Cookbook.webp"
+    },
+    {
+        "id": "78",
+        "name": "Book of Revelations",
+        "description": "Augmente la chance qu'une salle du Diable / de l'Ange apparaisse tant qu'il est en possession. Lors de l'utilisation, accorde un cœur d'âme et remplace le boss de l'étage actuel par un Harbinger si possible.",
+        "unlock": "Débloquez cet objet en battant l'un des boss cavaliers pour la première fois.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Book_of_Revelations.webp"
+    },
+    {
+        "id": "97",
+        "name": "The Book of Sin",
+        "description": "Génère un objet aléatoire ramassable, une pilule, une carte ou une rune.",
+        "unlock": "Débloquez cet objet en battant chacun des sept péchés une fois.",
+        "type": "Activable & Livre",
+        "image": "./img/items/The_Book_of_Sin.webp"
+    },
+    {
+        "id": "123",
+        "name": "Monster Manual",
+        "description": "Fait apparaître un familier parmi une sélection spécifique pour l'étage actuel.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/Monster_Manual.webp"
+    },
+    {
+        "id": "192",
+        "name": "Telepathy for Dummies",
+        "description": "Donne des larmes chercheuses pour la pièce actuelle. Donne également +3 de portée.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/Telepathy_for_Dummies.webp"
+    },
+    {
+        "id": "282",
+        "name": "How to Jump",
+        "description": "Lors de son utilisation, Isaac saute dans la direction dans laquelle il se déplace actuellement, permettant de voyager au-dessus des obstacles et des ennemis.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/How_to_Jump.webp"
+    },
+    {
+        "id": "287",
+        "name": "Book of Secrets",
+        "description": "Accorde l'effet de Carte au trésor, de la Boussole ou de la Carte bleue pour la durée de l'étage actuel. Si tous les effets sont actifs, la Vision X est fournie pour l'étage à la place. Met en évidence les rochers teintés et les rochers avec un passage secret dans la pièce.",
+        "unlock": "Débloquez cet objet en battant Satan avec Eden.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Book_of_Secrets.webp"
+    },
+    {
+        "id": "292",
+        "name": "Satanic Bible",
+        "description": "Elle donne un cœur noir et remplace l'objet de la salle du boss sur l'étage actuel par une offre du Diable.",
+        "unlock": "Débloquez cet objet en battant Isaac avec Azazel.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Collectible_Satanic_Bible_icon.webp"
+    },
+    {
+        "id": "545",
+        "name": "Book of the Dead",
+        "description": "Crée un squelette amical, un Squelette Noir, une Mouche d'os, un Revenant, ou un os orbital pour chaque ennemi tué dans la pièce actuelle.",
+        "unlock": "Débloquez cet objet en vainquant Délirium en tant que L'Oublié.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Book_of_the_Dead.webp"
+    },
+    {
+        "id": "584",
+        "name": "Book of Virtues",
+        "description": "Lors de son utilisation, fait apparaître un feu follet qui tire des larmes et inflige des dégâts au contact.Agit également comme un objet passif qui fait apparaître des esprits thématiques lors de l'utilisation d'autres objets actifs.",
+        "unlock": "Débloquez cet objet en vainquant Isaac en tant que Bethany.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Book_of_Virtues.webp"
+    },
+    {
+        "id": "712",
+        "name": "Lemegeton",
+        "description": "Fait apparaître un esprit représentant un objet passif aléatoire, qui orbite autour d'Isaac mais peut être détruit. Tant que l'esprit est vivant, Isaac bénéficie des effets de cet objet. La génération utilise 25% du temps le pool d'objets de la salle actuelle, sinon un pool aléatoire.",
+        "unlock": "Débloquez cet objet en vainquant Délirium en tant que Bethany altérée.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Lemegeton.webp"
+    }        
+]

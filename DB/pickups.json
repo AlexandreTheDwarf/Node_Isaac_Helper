@@ -1,0 +1,1066 @@
+[
+    {
+        "id": "5101",
+        "name": "Red Heart",
+        "description": "Guérit un cœur rouge complet",
+        "unlock": "De base",
+        "type": "Coeur",
+        "image": "./img/pickups/Red_Heart.webp"  
+    },
+    {
+        "id": "5102",
+        "name": "Half Red Heart",
+        "description": "Guérit un demi-cœur rouge",
+        "unlock": "De base",
+        "type": "Coeur",
+        "image": "./img/pickups/Half_Red_Heart.webp"  
+    },
+    {
+        "id": "5103",
+        "name": "Soul Heart",
+        "description": "Les cœurs d'âme sont des cœurs bleus qui s'ajoutent à la fin de la barre de santé. Les cœurs d'âme ne sont pas permanents ; une fois perdus, ils ne peuvent pas être reconstitués, mais il est possible d'en ramasser de nouveaux. Dans la plupart des cas, les cœurs d'âme sont épuisés avant les cœurs rouges.",
+        "unlock": "De base",
+        "type": "Coeur",
+        "image": "./img/pickups/Soul_Heart.webp"  
+    },
+    {
+        "id": "5104",
+        "name": "Eternal Heart",
+        "description": "Lorsqu'ils sont conservés jusqu'à l'étage suivant, les Coeurs éternels accordent à Isaac un récipient de Coeur rouge. Ils donneront également un récipient de cœur rouge si deux sont collectés au même étage. ",
+        "unlock": "De base",
+        "type": "Coeur",
+        "image": "./img/pickups/Eternal_Heart.webp"  
+    },
+    {
+        "id": "5105",
+        "name": "Double Heart",
+        "description": "Guérit deux cœurs rouges completements",
+        "unlock": "De base",
+        "type": "Coeur",
+        "image": "./img/pickups/Double_Heart.webp"  
+    },
+    {
+        "id": "5106",
+        "name": "Black Heart",
+        "description": "Les cœurs noirs sont des cœurs noirs qui s'ajoutent à la fin de la barre de santé. Les cœurs noirs ne sont pas permanents ; une fois perdus, ils ne peuvent pas être reconstitués, bien qu'il soit possible d'en ramasser de nouveaux. Dans la plupart des cas, les cœurs noirs sont épuisés avant les cœurs rouges. Lorsqu'ils sont épuisés, ils invoquent l'effet Necronomicon, qui inflige 40 points de dégâts à tous les ennemis vulnérables de la pièce.",
+        "unlock": "De base",
+        "type": "Coeur",
+        "image": "./img/pickups/Black_Heart.webp"  
+    },
+    {
+        "id": "5107",
+        "name": "Gold Heart",
+        "description": "Les cœurs d'or n'ajoutent pas de santé, mais forment un contour autour du dernier cœur de la barre de santé d'Isaac. Lorsque ce cœur est épuisé, le cœur d'or se brise et 3 à 8 pièces de monnaie tombent autour d'Isaac. Les cœurs d'or clignotent lorsqu'ils sont épuisés et transforment temporairement les ennemis en or, comme 'Midas Touch'.",
+        "unlock": "Débloquez en réussissant le challenge #21 ('XXXXXXXXL')",
+        "type": "Coeur",
+        "image": "./img/pickups/Gold_Heart.webp"  
+    },
+    {
+        "id": "5108",
+        "name": "Half Soul Heart",
+        "description": "Ils peuvent remplacer les coeurs d'âmes ordinaires. Comme les cœurs d'âme entiers, ils peuvent être utilisés pour recharger un demi-cœur noir.",
+        "unlock": "Débloquez en vainquant le coeur de maman 5 fois",
+        "type": "Coeur",
+        "image": "./img/pickups/Half_Soul_Heart.webp"  
+    },
+    {
+        "id": "5110",
+        "name": "Blended Heart",
+        "description": "Remplit un conteneur de cœur rouge plein, mais agit comme un cœur d'âme lorsqu'il n'y a pas de conteneur libre. S'il ne manque à Isaac qu'un demi-cœur rouge, il le remplira et lui donnera également un demi-cœur d'âme.",
+        "unlock": "De base",
+        "type": "Coeur",
+        "image": "./img/pickups/Blended_Heart.webp"  
+    },
+    {
+        "id": "5111",
+        "name": "Bone Heart",
+        "description": "Il faut trois coups pour l'épuiser et il peut être rechargé avec des cœurs rouges et des cœurs pourris, mais il disparaît définitivement lorsqu'il est épuisé.",
+        "unlock": "Débloquez en débloquant 'The Forgotten'",
+        "type": "Coeur",
+        "image": "./img/pickups/Bone_Heart.webp"  
+    },
+    {
+        "id": "5112",
+        "name": "Rotten Heart",
+        "description": "Les cœurs pourris remplissent un conteneur de cœur entier, ou le cœur rouge le plus à droite si tous les conteneurs de cœur d'Isaac sont pleins, mais ne peuvent subir qu'un demi-cœur de dégâts chacun avant d'être épuisés (ainsi, par exemple, deux cœurs pourris seront épuisés s'ils subissent un cœur entier de dégâts). Chaque cœur pourri dans la barre de vie d'Isaac fait apparaître deux mouches bleues lorsqu'il nettoie une pièce.",
+        "unlock": "Débloquez en rentrant dans la première fois dans 'The Corpse'",
+        "type": "Coeur",
+        "image": "./img/pickups/Rotten_Heart.webp"  
+    },
+    {
+        "id": "5201",
+        "name": "Penny",
+        "description": "1 pièces",
+        "unlock": "De base",
+        "type": "pièces",
+        "image": "./img/pickups/Penny.webp"  
+    },
+    {
+        "id": "5202",
+        "name": "Nickel",
+        "description": "A la valeur de 5 pièces",
+        "unlock": "De base",
+        "type": "pièces",
+        "image": "./img/pickups/Nickel.webp"  
+    },
+    {
+        "id": "5203",
+        "name": "Dime",
+        "description": "A la valeur de 10 pièces",
+        "unlock": "De base",
+        "type": "pièces",
+        "image": "./img/pickups/Dime.webp"  
+    },
+    {
+        "id": "5204",
+        "name": "Double Penny",
+        "description": "A la valeur de 2 pièces",
+        "unlock": "De base",
+        "type": "pièces",
+        "image": "./img/pickups/Double_Penny.webp"  
+    },
+    {
+        "id": "5205",
+        "name": "Lucky Penny",
+        "description": "Augmente la chance de 1 lorsqu'on la ramasse.",
+        "unlock": "Faire un don de 2 pièces à la machine à dons de 'Greed'",
+        "type": "pièces",
+        "image": "./img/pickups/Lucky_Penny.webp"  
+    },
+    {
+        "id": "5206",
+        "name": "Sticky Nickel",
+        "description": "Il se retournera lorsque Isaac essaiera de le ramasser. Ensuite, il restera coincé au sol, incapable d'être ramassé à moins qu'une explosion ne le fasse décoller du sol.",
+        "unlock": "Terminez le Boss Rush en tant que Keeper",
+        "type": "pièces",
+        "image": "./img/pickups/Nickel.webp"  
+    },
+    {
+        "id": "5207",
+        "name": "Golden Penny",
+        "description": "Fait apparaître un autre penny d'or dans un endroit aléatoire de la même pièce après avoir été ramassé, mais il a 10 % de chances de disparaître à la place.",
+        "unlock": "Vaincre Mega Satan en tant que tainted Keeper",
+        "type": "pièces",
+        "image": "./img/pickups/Golden_Penny.webp"  
+    },
+    {
+        "id": "5401",
+        "name": "Bomb",
+        "description": "Crée une explosion quand utiliser qui peut casser les rochers, découvrir les salles secrètes et infliger des dégats aux ennemis et a isaac",
+        "unlock": "De base",
+        "type": "bombes",
+        "image": "./img/pickups/Bomb.webp"  
+    },
+    {
+        "id": "5402",
+        "name": "Double Bomb",
+        "description": "Donne deux bombes",
+        "unlock": "De base",
+        "type": "bombes",
+        "image": "./img/pickups/Double_Bomb.webp"  
+    },
+    {
+        "id": "5403",
+        "name": "Troll Bomb",
+        "description": "Ne peut être ramassé. Les trolls bombes sont déjà enflammés et exploseront au bout de quelques secondes.",
+        "unlock": "De base",
+        "type": "bombes",
+        "image": "./img/pickups/Troll_Bomb.webp"  
+    },
+    {
+        "id": "5404",
+        "name": "Golden Bomb",
+        "description": "Ne s'ajoute pas au nombre de bombes du joueur, mais lorsqu'elle est ramassée, elle permet au joueur de placer des bombes sans que cela ne soit soustrait de son total pour la durée de l'étage en cours, même si le nombre de bombes actuel est de 0.",
+        "unlock": "Réussir le challenge 'Blue Bomber' (#23)",
+        "type": "bombes",
+        "image": "./img/pickups/Golden_Bomb.webp"  
+    },
+    {
+        "id": "5405",
+        "name": "Mega Troll Bomb",
+        "description": "Comme les bombes Troll, mais elles sont plus grosses et poursuivent Isaac s'il se trouve à proximité.",
+        "unlock": "De base",
+        "type": "bombes",
+        "image": "./img/pickups/Mega_Troll_Bomb.webp"  
+    },
+    {
+        "id": "5406",
+        "name": "Golden Troll Bomb",
+        "description": "Comme les bombes trolls, mais elles peuvent exploser à l'infini, imitant ainsi l'effet d'une bombe dorée.",
+        "unlock": "De base",
+        "type": "bombes",
+        "image": "./img/pickups/Golden_Troll_Bomb.webp"  
+    },
+    {
+        "id": "5407",
+        "name": "Giga Bomb",
+        "description": "Lancés par les Bombgaggers, les Ultra War, ils apparaissent naturellement dans certaines salles d'Ashpit ainsi que dans une salle super secrète. Elles explosent et détruisent les tuiles en forme de diamant. Les giga-bombes infligent 300 points de dégâts aux ennemis.",
+        "unlock": "De base",
+        "type": "bombes",
+        "image": "./img/pickups/Giga_Bomb.webp"  
+    },
+    {
+        "id": "5410",
+        "name": "Throwable Bomb",
+        "description": "Elle ne peut être ramassée et lancée qu'une seule fois, et explose quelques secondes après avoir été ramassée. N'est généré que par l'ennemi Bomb Grimace.",
+        "unlock": "De base",
+        "type": "bombes",
+        "image": "./img/pickups/Throwable_Bomb.webp"  
+    },
+    {
+        "id": "5420",
+        "name": "Poop Nugget",
+        "description": "Bombe exclusive a Tainted ???. Il les obtient en infligeant des dégâts aux ennemis.",
+        "unlock": "De base (Consommables exclusifs  à Tainted ???)",
+        "type": "bombes",
+        "image": "./img/pickups/Poop_Nugget.webp"  
+    },
+    {
+        "id": "5421",
+        "name": "Big Poop Nugget",
+        "description": "Toutes les bombes qui apparaissent normalement sont remplacées par cette bombe lorsque vous jouez en tant que Tainted ??? cela n'affecte pas les bombes Trolls et leurs variantes.",
+        "unlock": "De base (Consommables exclusifs  à Tainted ???)",
+        "type": "bombes",
+        "image": "./img/pickups/Big_Poop_Nugget.webp"  
+    },
+    {
+        "id": "5301",
+        "name": "Key",
+        "description": "Permet d'ouvrir les serrures des coffres, portes, bloc à serrure, ...",
+        "unlock": "De base",
+        "type": "clés",
+        "image": "./img/pickups/Key.webp"  
+    },
+    {
+        "id": "5302",
+        "name": "Golden Key",
+        "description": "Ne s'ajoute pas au nombre de clés du joueur, mais lorsqu'il est ramassé, il permet au joueur d'utiliser des clés sur tout ce qui en a besoin sans que cela ne soit soustrait de son total pour la durée de l'étage en cours, même si le nombre actuel de clés est de 0.",
+        "unlock": "De base",
+        "type": "clés",
+        "image": "./img/pickups/Golden_Key.webp"  
+    },
+    {
+        "id": "5303",
+        "name": "Key Ring",
+        "description": "Donne deux clés",
+        "unlock": "De base",
+        "type": "clés",
+        "image": "./img/pickups/Key_Ring.webp"  
+    },
+    {
+        "id": "5304",
+        "name": "Charged Key",
+        "description": "Donne une clé et agit comme une petite batterie lorsqu'elle est ramassée.",
+        "unlock": "Réussir le challenge 'Pokey Mans' (#33)",
+        "type": "clés",
+        "image": "./img/pickups/Charged_Key.webp"  
+    },
+    {
+        "id": "5901",
+        "name": "Lil' Battery",
+        "description": "Recharge 6 charges de l'objet activable d'isaac",
+        "unlock": "De base",
+        "type": "Batteries",
+        "image": "./img/pickups/Lil_Battery.webp"  
+    },
+    {
+        "id": "5902",
+        "name": "Micro Battery",
+        "description": "Recharge 2 charges de l'objet activable d'isaac",
+        "unlock": "De base",
+        "type": "Batteries",
+        "image": "./img/pickups/Micro_Battery.webp"  
+    },
+    {
+        "id": "5903",
+        "name": "Mega Battery",
+        "description": "Recharge complètement 2 fois les charges de son objet activable, permet donc de l'utiliser 2 fois",
+        "unlock": "De base",
+        "type": "Batteries",
+        "image": "./img/pickups/Mega_Battery.webp"  
+    },
+    {
+        "id": "5904",
+        "name": "Golden Battery",
+        "description": "Recharge 6 charges de l'objet activable d'isaac et elle inflige un cœur complet de dégâts lorsqu'elle est ramassée. Une autre batterie dorée apparaît dans une pièce aléatoire, mais elle n'apparaît pas sur la carte tant qu'elle n'est pas découverte.",
+        "unlock": "Battre Mega satan en tant que Tainted Forgotten",
+        "type": "Batteries",
+        "image": "./img/pickups/Golden_Battery.webp"  
+    },
+    {
+        "id": "53001",
+        "name": "0 - The Fool",
+        "description": "Téléporte Isaac dans la salle de départ de l'étage où il se trouve.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Fool_icon.webp"  
+    },
+    {
+        "id": "53002",
+        "name": "I - The Magician",
+        "description": "Accorde des larmes autoguidées et une portée de +3 pour la pièce actuelle.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Magician_icon.webp"  
+    },
+    {
+        "id": "53003",
+        "name": "II - The High Priestess",
+        "description": "La jambe démembrée de maman est invoquée pour infliger 300 points de dégâts à tout ce qu'elle piétine. Elle piétine toujours l'ennemi qui a le plus de points de vie. Les marchands sont considérés comme des ennemis. Si elle est utilisée dans une pièce vide ou pendant le combat avec Maman, elle piétinera Isaac à la place.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_High_Priestess_icon.webp"  
+    },
+    {
+        "id": "53004",
+        "name": "III - The Empress",
+        "description": "Déclenche l'effet de l'objet 'Whore of Babylon' (+1,5 point de dégâts, +0,3 point de vitesse) dans la pièce actuelle, quel que soit le nombre de points de vie d'Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Empress_icon.webp"  
+    },
+    {
+        "id": "53005",
+        "name": "IV - The Emperor",
+        "description": "Téléporte Isaac dans la salle des boss de l'étage.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Emperor_icon.webp"  
+    },
+    {
+        "id": "53006",
+        "name": "V - The Hierophant",
+        "description": "Dépose 2 cœurs d'âme complets sur le sol.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Hierophant_icon.webp"  
+    },
+    {
+        "id": "53007",
+        "name": "VI - The Lovers",
+        "description": "Dépose 2 cœurs rouges sur le sol.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Lovers_icon.webp"  
+    },
+    {
+        "id": "53008",
+        "name": "VII - The Chariot",
+        "description": "Confère l'invulnérabilité et +0,28 vitesse pendant 6 secondes, supprimant la capacité de tirer des larmes et la remplaçant par la capacité d'infliger des dégâts de contact aux ennemis.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Chariot_icon.webp"  
+    },
+    {
+        "id": "53009",
+        "name": "VIII - Justice",
+        "description": "Dépose un type aléatoire de cœur, de clé, de bombe et de pièce sur le sol.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Justice_icon.webp"  
+    },
+    {
+        "id": "53010",
+        "name": "IX - The Hermit",
+        "description": "Téléporte Isaac à la boutique.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Hermit_icon.webp"  
+    },
+    {
+        "id": "53011",
+        "name": "X - Wheel of Fortune",
+        "description": "Crée une machine à sous ou une machine à dire la bonne aventure près d'Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Wheel_of_Fortune_icon.webp"  
+    },
+    {
+        "id": "53012",
+        "name": "XI - Strength",
+        "description": "Accorde x1.5 de dégats pour une pièce. Le conteneur de cœur rouge ajouté n'est pas retiré si cela risque de tuer Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Strength_icon.webp"  
+    },
+    {
+        "id": "53013",
+        "name": "XII - The Hanged Man",
+        "description": "Enlève le corps d'Isaac, ce qui lui permet de voler pendant la durée de la pièce.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Hanged_Man_icon.webp"  
+    },
+    {
+        "id": "53014",
+        "name": "XIII - Death",
+        "description": "Inflige 40 points de dégâts à tous les ennemis dans la pièce",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Death_icon.webp"  
+    },
+    {
+        "id": "53015",
+        "name": "XIV - Temperance",
+        "description": "Crée une machine à don du sang près d'Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Temperance_icon.webp"  
+    },
+    {
+        "id": "53016",
+        "name": "XV - The Devil",
+        "description": "Accorde à Isaac une augmentation temporaire de +2 aux dégâts pour la pièce en cours.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Devil_icon.webp"  
+    },
+    {
+        "id": "53017",
+        "name": "XVI - The Tower",
+        "description": "Dépose 6 bombes trolls au hasard dans la pièce.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Tower_icon.webp"  
+    },
+    {
+        "id": "53018",
+        "name": "XVII - The Stars",
+        "description": "Teleporte Isaac dans la salle du trésor. Choisit aléatoirement une salle du trésor si la Malédiction du labyrinthe est active. S'il y a un Planétarium, il y téléporte Isaac à la place.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Stars_icon.webp"  
+    },
+    {
+        "id": "53019",
+        "name": "XVIII - The Moon",
+        "description": "Téléporte Isaac dans la pièce secrète. Cette carte ouvre un mur au hasard une fois dans la pièce secrète, ce qui permet à Isaac de partir même s'il n'a pas de bombes disponibles. Choisit aléatoirement une pièce secrète s'il y en a plusieurs.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Moon_icon.webp"  
+    },
+    {
+        "id": "53020",
+        "name": "XIX - The Sun",
+        "description": "Rétablit la santé d'Isaac, inflige 100 points de dégâts à tous les ennemis présents dans la pièce et révèle la carte de l'étage en cours, à l'exception de la salle super secrète et de la salle ultra secrète. Supprime la malédiction des ténèbres pour l'étage actuel.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_Sun_icon.webp"  
+    },
+    {
+        "id": "53021",
+        "name": "XX - Judgement",
+        "description": "Fait apparaître un mendiant ou, plus rarement, un mendiant diabolique, un clochard à piles, un mendiant pourri, un maître des clés ou un clochard à bombes près d'Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Judgement_icon.webp"  
+    },
+    {
+        "id": "53022",
+        "name": "XXI - The World",
+        "description": "Révèle l'ensemble de l'étage, à l'exception de la salle super secrète et de la salle ultra secrète.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/The_World_icon.webp"  
+    },
+    {
+        "id": "53056",
+        "name": "0 - The Fool?",
+        "description": "Laisse tomber tous les cœurs et les objets à ramasser qu 'Isaac possède actuellement sur le sol, laissant Isaac avec un demi-cœur. Les objets ramassés peuvent être transformés en des objets tels que 'a quarter' et 'Boom !'.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Lost",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_0_-_The_Fool_icon.webp"  
+    },
+    {
+        "id": "53057",
+        "name": "I - The Magician?",
+        "description": "Confère une aura bleue repoussante pendant une minute, comme 'The Soul', mais plus forte et avec une zone d'effet plus large.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Judas",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_I_-_The_Magician_icon.webp"  
+    },
+    {
+        "id": "53058",
+        "name": "II - The High Priestess?",
+        "description": "La jambe de maman se met à piétiner de façon répétée (en ciblant Isaac, pas les ennemis) pendant une minute.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Lilith",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_II_-_The_High_Priestess_icon.webp"  
+    },
+    {
+        "id": "53059",
+        "name": "III - The Empress?",
+        "description": "Octroie 2 conteneurs de cœur rouge temporaires, +1,5 vitesse de tir et -0,1 vitesse pendant une minute, ainsi que la coiffure de Magdalene. L'effet n'est pas cumulable avec lui-même. Les personnages qui ne peuvent pas avoir de conteneurs de cœur rouge obtiendront des cœurs d'âme / cœurs noirs / cœurs d'os en conséquence. À la fin de l'effet, si le retrait des conteneurs de coeurs ou coeur bonus risquerait de tuer Isaac, il n'en reste qu'un à la place.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Eve",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_III_-_The_Empress_icon.webp"  
+    },
+    {
+        "id": "53060",
+        "name": "IV - The Emperor?",
+        "description": "Téléporte Isaac dans une salle de boss supplémentaire du pool de boss, deux étages plus bas que l'étage actuel (mais jamais un boss final). Le boss laissera une récompense, mais la pièce n'a pas de trappe, donc Isaac ne peut pas accéder à l'étage suivant. La pièce a une porte de sortie, qui ramène Isaac à l'endroit où il l'a utilisée.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted ???",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_IV_-_The_Emperor_icon.webp"  
+    },
+    {
+        "id": "53061",
+        "name": "V - The Hierophant?",
+        "description": "Dépose 2 Coeurs d'os sur le sol.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Bethany",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_V_-_The_Hierophant_icon.webp"  
+    },
+    {
+        "id": "53062",
+        "name": "VI - The Lovers?",
+        "description": "Crée un objet aléatoire à partir de la réserve d'objets de la pièce actuelle. Transforme un conteneur de cœur rouge ou deux cœurs d'âme en cœur brisé.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Magdalene",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_VI_-_The_Lovers_icon.webp"  
+    },
+    {
+        "id": "53063",
+        "name": "VII - The Chariot?",
+        "description": "Isaac devient une statue invincible avec une cadence de tir de 4x pendant 10 secondes. La statue peut être légèrement déplacée en bougeant et est affectée par le recul.",
+        "unlock": "Réussir le challenge 'Hot Potato' (#42)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_VII_-_The_Chariot_icon.webp"  
+    },
+    {
+        "id": "53064",
+        "name": "VIII - Justice?",
+        "description": "Crée 2 à 4 coffres en or près d'Isaac.",
+        "unlock": "Réussir le challenge 'Cantripped' (#43)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_VIII_-_Justice_icon.webp"  
+    },
+    {
+        "id": "53065",
+        "name": "IX - The Hermit?",
+        "description": "Vend les objets et les objets à ramasser dans la pièce. Les objets sont vendus pour 15 cents, les objets à ramasser pour le prix habituel de la boutique, ce qui génère une quantité équivalente de pièces de monnaie. S'il n'y a rien à vendre, il laisse tomber un penny.",
+        "unlock": "Réussir le challenge 'Red Redemption' (#44)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_IX_-_The_Hermit_icon.webp"  
+    },
+    {
+        "id": "53066",
+        "name": "X - Wheel of Fortune?",
+        "description": "Invoque un effet aléatoire de la salle des dés.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Cain",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_X_-_Wheel_of_Fortune_icon.webp"  
+    },
+    {
+        "id": "53067",
+        "name": "XI - Strength?",
+        "description": "Tous les ennemis présents dans la pièce sont affaiblis, deviennent lents et subissent des dégâts doublés. L'effet dure jusqu'à une minute ou jusqu'à ce que la pièce soit quittée.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Samson",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XI_-_Strength_icon.webp"  
+    },
+    {
+        "id": "53068",
+        "name": "XII - The Hanged Man?",
+        "description": "Isaac se transforme visuellement en 'Keeper' pendant 30 secondes, avec un triple tir, sans bonus de dégâts, et une vitesse de-0,1. Les ennemis tués lâchent des pièces aléatoires.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Keeper",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XII_-_The_Hanged_Man_icon.webp"  
+    },
+    {
+        "id": "53069",
+        "name": "XIII - Death?",
+        "description": "Fait le meme effet que 'Book Of The Dead'",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Forgotten",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XIII_-_Death_icon.webp"  
+    },
+    {
+        "id": "53070",
+        "name": "XIV - Temperance?",
+        "description": "Force Isaac à manger 5 pilules aléatoires en succession rapide.",
+        "unlock": "Réussir le challenge 'Delete This'(#45)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XIV_-_Temperance_icon.webp"  
+    },
+    {
+        "id": "53071",
+        "name": "XV - The Devil?",
+        "description": "Invoque La Bible (qui peut tuer Maman et permet à Isaac de voler) et fait apparaître un familier Séraphin pendant 30 secondes.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Azazel",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XV_-_The_Devil_icon.webp"  
+    },
+    {
+        "id": "53072",
+        "name": "XVI - The Tower?",
+        "description": "Crée 7 groupes de rochers aléatoires et d'autres obstacles. Les groupes créés contiennent souvent des rochers teintés, et il est possible d'en trouver plusieurs dans la même pièce. Les chemins entre les sorties ne peuvent pas être bloqués.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Apollyon",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XVI_-_The_Tower_icon.webp"  
+    },
+    {
+        "id": "53073",
+        "name": "XVII - The Stars?",
+        "description": "Retire le plus vieil objet passif d'Isaac (en ignorant les objets de départ) et crée 2 objets aléatoires à partir de la réserve d'objets de la pièce actuelle. Ne fait rien si Isaac n'a pas d'objets.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Isaac",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XVII_-_The_Stars_icon.webp"  
+    },
+    {
+        "id": "53074",
+        "name": "XVIII - The Moon?",
+        "description": "Téléporte Isaac dans la salle ultra secrète. Le chemin de retour vers les salles normales sera constitué de salles rouges.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Jacob",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XVIII_-_The_Moon_icon.webp"  
+    },
+    {
+        "id": "53075",
+        "name": "XIX - The Sun?",
+        "description": "Gagne l'Esprit de la nuit et +1,5 points de dégâts pour l'étage en cours. Transforme les cœurs rouges d'Isaac en cœurs d'os, mais ils reviennent à la fin de l'effet. Provoque également une malédiction des ténèbres qui ne peut pas être dissipée.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Jacob",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XIX_-_The_Sun_icon.webp"  
+    },
+    {
+        "id": "53076",
+        "name": "XX - Judgement?",
+        "description": "Création d'une machine de reroll près d'Isaac",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Lazarus",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XX_-_Judgement_icon.webp"  
+    },
+    {
+        "id": "53077",
+        "name": "XXI - The World?",
+        "description": "Crée une echelle de corde.",
+        "unlock": "Vaincre Ultra Greedier en tant que Tainted Eden",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_XXI_-_The_World_icon.webp"  
+    },
+    {
+        "id": "53023",
+        "name": "2 of Clubs",
+        "description": "Double les bombes d'Isaac. S'il n'a pas de bombes, lui en donne 2 à la place.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_2_of_Clubs_icon.webp"  
+    },
+    {
+        "id": "53024",
+        "name": "2 of Diamonds",
+        "description": "Double l'argent d'Isaac. S'il n'a pas de pièces, lui en donne 2 à la place.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_2_of_Diamonds_icon.webp"  
+    },
+    {
+        "id": "53025",
+        "name": "2 of Spades",
+        "description": "Double les clés d'Isaac. S'il n'a pas de clés, lui en donne 2 à la place.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_2_of_Spades_icon.webp"  
+    },
+    {
+        "id": "53026",
+        "name": "2 of Hearts",
+        "description": "Double le nombre de cœurs rouges d'Isaac. N'ajoute pas de nouveaux conteneurs de Coeurs Rouges, mais remplit les conteneurs vides. Si Isaac n'a que des contenants de Coeur Rouge vides, il est soigné pour 1 Coeur Rouge. Double les charges de sang de Bethany.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_2_of_Hearts_icon.webp"  
+    },
+    {
+        "id": "53027",
+        "name": "Ace of Clubs",
+        "description": "Transforme tous les objets ramassables, les coffres et les ennemis qui ne sont pas des boss en bombes aléatoires, y compris les bombes trolls.",
+        "unlock": "Obtenir une série de 3 victoires",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Ace_of_Clubs_icon.webp"  
+    },
+    {
+        "id": "53028",
+        "name": "Ace of Diamonds",
+        "description": "Transforme toutes les ramassables, tous les coffres et tous les ennemis qui ne sont pas des boss dans la pièce en pièces aléatoires.",
+        "unlock": "Vaincre l'agneau dans Dark Room en moins de 20 minutes",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Ace_of_Diamonds_icon.webp"  
+    },
+    {
+        "id": "53029",
+        "name": "Ace of Spades",
+        "description": "Transforme toutes les ramassables, tous les coffres et tous les ennemis qui ne sont pas des boss dans la pièce en clés aléatoires.",
+        "unlock": "Vaincre l'agneau dans la Dark Room sans prendre de cœurs, de pièces ou de bombes pendant toute la durée du jeu.",
+        "type": "Cartes",
+        "image": "./img/pickups/Ace_of_Spades_29_Icon.webp"  
+    },
+    {
+        "id": "53030",
+        "name": "Ace of Hearts",
+        "description": "Transforme tous les objets ramassables, les coffres et les ennemis qui ne sont pas des boss en cœurs aléatoires.",
+        "unlock": "Terminer un chapitre (étages I et II) après le 'Basement', du début à la fin, avec seulement la moitié d'un cœur au total (peut utiliser The Lost).",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Ace_of_Hearts_icon.webp"  
+    },
+    {
+        "id": "53031",
+        "name": "Joker",
+        "description": "Téléporte Isaac dans la salle du Diable ou la salle de l'Ange.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Joker_icon.webp"  
+    },
+    {
+        "id": "53046",
+        "name": "Suicide King",
+        "description": "Tue Isaac et fait apparaître de nombreux pickups, objets et/ou coffres dans la même pièce.",
+        "unlock": "Réussir le challenge 'Suicide King' (#7)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Suicide_King_icon.webp"  
+    },
+    {
+        "id": "53079",
+        "name": "Queen of Hearts",
+        "description": "Dépose 1 à 20 cœurs rouges sur le sol.",
+        "unlock": "Vaincre Mega Satan en tant que tainted Magdalene",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Queen_of_Hearts_icon.webp"  
+    },
+    {
+        "id": "53042",
+        "name": "Chaos Card",
+        "description": "Lance la carte pour tuer presque tout ce qui se trouve sur son chemin. Ouvre les portes comme si une bombe avait explosé.",
+        "unlock": "Réussir le challenge 'Demo Man' (#9)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Chaos_Card_icon.webp"  
+    },
+    {
+        "id": "53052",
+        "name": "Huge Growth",
+        "description": "Pour la pièce actuelle, rend Isaac plus grand, lui permet d'écraser les obstacles sur lesquels il marche, et lui accorde +7 de dégâts à plat et +3 de portée.",
+        "unlock": "Augmentation de la taille 5 fois en une seule fois grâce aux 'Magic Mushroom', aux pilules 'One makes you larger', au 'XI - Strength', etc.",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Huge_Growth_icon.webp"  
+    },
+    {
+        "id": "53053",
+        "name": "Ancient Recall",
+        "description": "Génère 3 cartes aléatoires.",
+        "unlock": "Utiliser des cartes et des runes 20 fois",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Ancient_Recall_icon.webp"  
+    },
+    {
+        "id": "53054",
+        "name": "Era Walk",
+        "description": "Dans la salle actuelle, les ennemis sont ralentis, la vitesse d'Isaac est augmentée de 0,50 et sa vitesse de tir est diminuée de 1,00.",
+        "unlock": "Ajoutez la 'Broken Watch' et la 'Stop Watch' à votre collection.",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Era_Walk_icon.webp"  
+    },
+    {
+        "id": "53043",
+        "name": "Credit Card",
+        "description": "Rend tous les ramassables et les objets qui coûtent de l'argent ou de la santé dans la pièce gratuits.",
+        "unlock": "Réussir le challenge 'Cursed!' (#10)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Credit_Card_icon.webp"  
+    },
+    {
+        "id": "53044",
+        "name": "Rules Card",
+        "description": "Affiche un message énigmatique à l'écran, semblable à une machine à dire la bonne aventure. Ces messages fournissent (souvent) des indices sur les boss, les zones de bonus, etc.",
+        "unlock": "Réussir le challenge 'Glass Cannon' (#11)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Rules_Card_icon.webp"  
+    },
+    {
+        "id": "53048",
+        "name": "? Card",
+        "description": "Lorsqu'il est utilisé, il copie l'effet de l'objet activable actuellement détenue par Isaac.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Q_Card_icon.webp"  
+    },
+    {
+        "id": "53045",
+        "name": "A Card Against Humanity",
+        "description": "Couvre toute la pièce de caca. Le processus n'est pas instantané, et la pièce ne sera pas remplie si Isaac part avant la fin du remplissage.",
+        "unlock": "Réussir le challenge 'When Life Gives You Lemons' (#12)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_A_Card_Against_Humanity_icon.webp"  
+    },
+    {
+        "id": "53047",
+        "name": "Get out of Jail Free Card",
+        "description": "Lorsqu'elle est utilisée, elle ouvre toutes les portes de la pièce actuelle, exactement comme la 'Dad's Key' (Clé de papa).",
+        "unlock": "Réussir le challenge 'Speed!' (#22)",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Get_out_of_Jail_Free_Card_icon.webp"  
+    },
+    {
+        "id": "53051",
+        "name": "Holy Card",
+        "description": "Octroie un effet unique de 'Holy Mantle'.",
+        "unlock": "Vaincre Délirium en tant que The Lost",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Holy_Card_icon.webp"  
+    },
+    {
+        "id": "53080",
+        "name": "Wild Card",
+        "description": "Lorsqu'il est utilisé, il copie l'effet de la pilule, de la carte, de la rune, de la pierre d'âme ou de l'objet activable le plus récemment utilisé.",
+        "unlock": "Vaincre Mega Satan en tant que tainted Eden",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Wild_Card_icon.webp"  
+    },
+    {
+        "id": "53032",
+        "name": "Rune of Hagalaz",
+        "description": "Détruit tous les objets cassables de la pièce. N'affecte pas les blocs de clés.",
+        "unlock": "Réussir le challenge 'Pitch Black' (#1)",
+        "type": "Runes",
+        "image": "./img/pickups/Hagalaz_Icon.webp"  
+    },
+    {
+        "id": "53033",
+        "name": "Rune of Jera",
+        "description": "Clone toutes les pioches et tous les coffres de la pièce (y compris les pioches de la boutique; les clones peuvent alors être ramassés gratuitement). ",
+        "unlock": "Réussir le challenge 'High Brow' (#2)",
+        "type": "Runes",
+        "image": "./img/pickups/Jera_Icon.webp"  
+    },
+    {
+        "id": "53034",
+        "name": "Rune of Ehwaz",
+        "description": "Crée une trappe menant à l'étage suivant. Crée à coup sûr une échelle de corde si elle est utilisée sur des dalles contenant certains motifs. Ne crée pas de trappe si elle est utilisée à la fin d'un défi.",
+        "unlock": "Réussir le challenge 'Head Trauma' (#3)",
+        "type": "Runes",
+        "image": "./img/pickups/Ehwaz_Icon.webp"  
+    },
+    {
+        "id": "53035",
+        "name": "Rune of Dagaz",
+        "description": "Supprime toutes les malédictions de l'étage actuel et accorde un cœur d'âme. (Cela ne supprime pas la Malédiction du labyrinthe).",
+        "unlock": "Réussir le challenge 'Darkness Falls' (#4)",
+        "type": "Runes",
+        "image": "./img/pickups/Dagaz_Icon.webp"  
+    },
+    {
+        "id": "53036",
+        "name": "Rune of Ansuz",
+        "description": "Révèle toute la carte, y compris la salle secrète et la salle super secrète. (Cela ne supprime pas la Malédiction des perdus.) Ne révèle pas la Salle ultra secrète.",
+        "unlock": "Réussir le challenge 'The Tank' (#5)",
+        "type": "Runes",
+        "image": "./img/pickups/Ansuz_Icon.webp"  
+    },
+    {
+        "id": "53037",
+        "name": "Rune of Perthro",
+        "description": "Reroll tous les objets sur piédestal de la pièce (même effet que le D6).",
+        "unlock": "Réussir le challenge 'Solar System' (#6)",
+        "type": "Runes",
+        "image": "./img/pickups/Perthro_Icon.webp"  
+    },
+    {
+        "id": "53038",
+        "name": "Rune of Berkano",
+        "description": "Invoque 3 mouches bleues et 3 araignées bleues amies.",
+        "unlock": "Réussir le challenge 'Purist' (#20)",
+        "type": "Runes",
+        "image": "./img/pickups/Berkano_Icon.webp"  
+    },
+    {
+        "id": "53039",
+        "name": "Rune of Algiz",
+        "description": "Octroie un bouclier qui dure 20 secondes.",
+        "unlock": "Réussir le challenge 'Cat Got Your Tongue' (#8)",
+        "type": "Runes",
+        "image": "./img/pickups/Algiz_Icon.webp"  
+    },
+    {
+        "id": "53040",
+        "name": "Blank Rune",
+        "description": "Accorde un effet de rune aléatoire.",
+        "unlock": "Réussir le challenge 'The Guardiaan' (#30)",
+        "type": "Runes",
+        "image": "./img/pickups/Pickup_Blank_Rune_icon.webp"  
+    },
+    {
+        "id": "53041",
+        "name": "Black Rune",
+        "description": "Inflige 40 points de dégâts à tous les ennemis de la pièce. Consomme tous les objets ramassés dans la pièce et les transforme en mouches et araignées bleues. Consomme tous les objets de piédestal de la pièce et les transforme en améliorations de statues aléatoires. Aucun effet sur les objets de la boutique ou de la salle du diable. ",
+        "unlock": "Vaincre Ultra Greedier en tant que Apollyon",
+        "type": "Runes",
+        "image": "./img/pickups/Pickup_Black_Rune_icon.webp"  
+    },
+    {
+        "id": "53055",
+        "name": "Rune Shard",
+        "description": "Active un effet rune faible et aléatoire : Algiz accorde un bouclier de 3 secondes, Ansuz révèle la carte jusqu'à 3 pièces plus loin, Berkano donne 1 mouche et 1 araignée bleues, Dagaz donne la moitié d'une Âme de cœur, Ehwaz crée une trappe, Hagalaz détruit quelques rochers, Jera duplique une pickups, et Perthro relance un objet. ",
+        "unlock": "De base",
+        "type": "Runes",
+        "image": "./img/pickups/Pickup_Rune_Shard_icon.webp"  
+    },
+    {
+        "id": "53049",
+        "name": "Dice Shard",
+        "description": "Lors de son utilisation, il invoque les effets du D6 et du D20 en même temps, relançant tous les piédestaux et les ramassables dans la pièce.",
+        "unlock": "De base",
+        "type": "Dés",
+        "image": "./img/pickups/Pickup_Dice_Shard_icon.webp"  
+    },
+    {
+        "id": "53050",
+        "name": "Emergency Contact",
+        "description": "Lorsqu'il est utilisé, deux mains de maman descendent et saisissent deux ennemis au hasard, leur infligeant des dégâts et, s'ils ont 40 PV ou plus, les clouant temporairement au sol.",
+        "unlock": "De base",
+        "type": "Cartes",
+        "image": "./img/pickups/Pickup_Emergency_Contact_icon.webp"  
+    },
+    {
+        "id": "53078",
+        "name": "Cracked Key",
+        "description": "Crée une pièce adjacente à un mur viable, comme Red Key.",
+        "unlock": "Ouvrir le coffre de maman dans l'étage de 'la maison'",
+        "type": "clés",
+        "image": "./img/pickups/Pickup_Cracked_Key_icon.webp"  
+    },
+    {
+        "id": "53081",
+        "name": "Soul of Isaac",
+        "description": "Il fait reroll les objets de la pièce comme le D6, mais ils reprennent leur forme initiale au bout d'une seconde, en se répétant. Si plusieurs utilisations sont empilées, un objet supplémentaire par utilisation sera recyclé.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Isaac",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Isaac_icon.webp"  
+    },
+    {
+        "id": "53082",
+        "name": "Soul of Magdalene",
+        "description": "Entoure Isaac d'une aura rouge bouillonnante pour la pièce en cours. Tous les ennemis tués lâchent des demi-cœurs rouges qui disparaissent au bout de 2 secondes.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Magdalene",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Magdalene_icon.webp"  
+    },
+    {
+        "id": "53083",
+        "name": "Soul of Cain",
+        "description": "Ouvre toutes les portes de la pièce. De plus, elle crée une pièce rouge comme la clé rouge sur tous les murs valides. Cela détruit également le miroir situé dans Downpour / Dross II.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Cain",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Cain_icon.webp"  
+    },
+    {
+        "id": "53084",
+        "name": "Soul of Judas",
+        "description": "Arrête le temps pendant 3 secondes et invoque la 'Dark Arts', transformant Isaac en un fantôme qui peut traverser les ennemis pour les paralyser, puis les attaquer pour augmenter rapidement les dégâts enchaînés et les bonus de dégâts.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Judas",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Judas_icon.webp"  
+    },
+    {
+        "id": "53085",
+        "name": "Soul of ???",
+        "description": "Provoque 8 pets empoisonnés qui laissent une trace brune persistante, puis pose une traînée de 7 Butt Bombs en succession rapide. Le fait de se tenir sur la trace donne +1,5 cadence de tir et +1 dégât.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted ???",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_blue_icon.webp"  
+    },
+    {
+        "id": "53086",
+        "name": "Soul of Eve",
+        "description": "14 familiers 'Dead Bird' s'envolent et attaquent les ennemis. Ils partent lorsque toutes les victimes sont mortes ou qu'Isaac quitte la pièce.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Eve",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Eve_icon.webp"  
+    },
+    {
+        "id": "53087",
+        "name": "Soul of Samson",
+        "description": "Isaac devient berserk (similaire à l'utilisation de 'Berserk !') pendant 10 secondes, gagnant +0,4 vitesse, quelques larmes et +3 dégâts plats avec son attaque de mêlée.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Samson",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Samson_icon.webp"  
+    },
+    {
+        "id": "53088",
+        "name": "Soul of Azazel",
+        "description": "Tire un énorme Brimstone (comme 'Mega Blast') pendant 7.5 secondes",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Azazel",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Azazel_icon.webp"  
+    },
+    {
+        "id": "53089",
+        "name": "Soul of Lazarus",
+        "description": "Isaac meurt et est immédiatement ranimé par un demi-cœur dans la même pièce, avec un certain temps d'invincibilité. La pierre d'âme est automatiquement utilisée en cas de dégâts mortels. A la priorité la plus élevée de tous les objets de réanimation.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Lazarus",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Lazarus_icon.webp"  
+    },
+    {
+        "id": "53090",
+        "name": "Soul of Eden",
+        "description": "Utilise le 'D6' et le 'D20'. Les objets relancés utilisent des pools aléatoires, comme si le 'Chaos' était actif.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Eden",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Eden_icon.webp"  
+    },
+    {
+        "id": "53091",
+        "name": "Soul of the Lost",
+        "description": "Isaac meurt et se transforme en fantôme (similaire à The Lost) pour la pièce en cours, avec tous les avantages et faiblesses de The Lost. Il redevient normal lorsqu'il quitte la pièce. Permet de prendre gratuitement 1 objet de la salle du Diable, après quoi les autres objets disparaissent. Permet également de franchir gratuitement la porte du Mausolée / Géhenne. L'effet Holy Mantle peut être cumulé en cas d'utilisation multiple.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Lost",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_the_Lost_icon.webp"  
+    },
+    {
+        "id": "53092",
+        "name": "Soul of Lilith",
+        "description": "Ajoute un familier permanent du pool de familiers, à l'exception des points de 'Stitches'. Peut donner des familiers que le joueur possède déjà. Les familiers uniques ne peuvent être reçus qu'une seule fois.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Lilith",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Lilith_icon.webp"  
+    },
+    {
+        "id": "53093",
+        "name": "Soul of the Keeper",
+        "description": "Dépose 1 à 25 pièces au hasard sur le sol.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Keeper",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_the_Keeper_icon.webp"  
+    },
+    {
+        "id": "53094",
+        "name": "Soul of Apollyon",
+        "description": "Génère 15 criquets aléatoires.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Apollyon",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Apollyon_icon.webp"  
+    },
+    {
+        "id": "53095",
+        "name": "Soul of the Forgotten",
+        "description": "Fait apparaître 'The Forgotten' en tant que personnage secondaire temporaire, contrôlé en même temps qu'Isaac. Il meurt si ses 3 cœurs d'os sont épuisés, sans autre conséquence, et disparaît lorsque Isaac quitte la pièce. La lancer d'os inflige de gros dégâts et reflète les larmes.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Forgotten",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_the_Forgotten_icon.webp"  
+    },
+    {
+        "id": "53096",
+        "name": "Soul of Bethany",
+        "description": "Produit 6 wisps du 'Book of Virtues' avec des propriétés aléatoires.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Bethany",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Bethany_icon.webp"  
+    },
+    {
+        "id": "53097",
+        "name": "Soul of Jacob and Esau",
+        "description": "Crée Esau en tant que personnage secondaire temporaire, contrôlé en même temps qu'Isaac. Il meurt si sa santé est épuisée, sans autre conséquence, et disparaît lorsque Isaac quitte la pièce. Esau possède également un nombre d'objets égal à celui d'Isaac, chacun d'entre eux étant basé sur les pools d'objets d'Isaac.",
+        "unlock": "Vaincre le 'Boss rush' & 'Hush' en tant que tainted Jacob",
+        "type": "Ames",
+        "image": "./img/pickups/Pickup_Soul_of_Jacob_and_Esau_icon.webp"  
+    }
+]

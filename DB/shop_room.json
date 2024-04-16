@@ -1,0 +1,762 @@
+[
+    {
+        "id": "21",
+        "name": "The Compass",
+        "description": "Révèle l'emplacement et le type de toutes les salles spéciales de la carte, à l'exception des salles secrètes et des salles super secrètes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Compass_icon.webp"
+    },
+    {
+        "id": "33",
+        "name": "The Bible",
+        "description": "Lors de son utilisation, Isaac obtient la capacité de voler pour la pièce actuelle. Tue instantanément Maman, le Cœur de Maman et le bébé lorsqu'il est activé, mais tue Isaac lorsqu'il est utilisé sur Satan.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/The_Bible.webp"
+    },
+    {
+        "id": "54",
+        "name": "Treasure Map",
+        "description": "Révèle la carte de chaque étage. Il n'identifie pas les salles spéciales et ne révèle pas l'emplacement des salles secrètes / super secrètes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Treasure_Map_icon.webp"
+    },
+    {
+        "id": "60",
+        "name": "The Ladder",
+        "description": "Permet à Isaac de traverser des espaces d'un carré en plaçant automatiquement une échelle entre les deux sections praticables.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Ladder_icon.webp"
+    },
+    {
+        "id": "63",
+        "name": "The Battery",
+        "description": "Les objets activables peuvent stocker un niveau de charge supplémentaire, ce qui permet de les utiliser deux fois dans une même pièce.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Battery_icon.webp"
+    },
+    {
+        "id": "64",
+        "name": "Steam Sale",
+        "description": "Réduit tous les prix de la boutique de 50%, arrondi à 7 pièces pour un objet, arrondi à 2-3 pièces pour un ramassable.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Steam_Sale_icon.webp"
+    },
+    {
+        "id": "85",
+        "name": "Deck of Cards",
+        "description": "Donne à Isaac une carte aléatoire.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Deck_of_Cards_icon.webp"
+    },
+    {
+        "id": "102",
+        "name": "Mom's Bottle of Pills",
+        "description": "À l'utilisation, donne à Isaac une pilule aléatoire.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moms_Bottle_of_Pills_icon.webp"
+    },
+    {
+        "id": "116",
+        "name": "9 Volt",
+        "description": "Réduit la charge de tout objet activable de 1. Tous les objets à charge de 1 ont des recharges temporisées.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_9_Volt_icon.webp"
+    },
+    {
+        "id": "137",
+        "name": "Remote Detonator",
+        "description": "Les bombes placées par Isaac n'explosent que lorsque le Détonateur à distance est utilisé. Donne 5 bombes.",
+        "unlock": "De base",
+        "type": "Activable & Bombes",
+        "image": "./img/items/Collectible_Remote_Detonator_icon.webp"
+    },
+    {
+        "id": "139",
+        "name": "Mom's Purse",
+        "description": "Permet à Isaac de tenir un bibelot supplémentaire. Laisse tomber une babiole au hasard.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Maman",
+        "image": "./img/items/Collectible_Moms_Purse_icon.webp"
+    },
+    {
+        "id": "147",
+        "name": "Notched Axe",
+        "description": "Alterne entre les larmes et la pioche, qui peut être utilisée pour attaquer et briser les obstacles. Son utilisation épuise la charge, et elle ne peut être réutilisée qu'au prochain étage une fois la charge épuisée.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Notched_Axe_icon.webp"
+    },
+    {
+        "id": "156",
+        "name": "Habit",
+        "description": "Lorsqu'Isaac est touché, son objet actif gagne la charge d'une salle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Habit_icon.webp"
+    },
+    {
+        "id": "164",
+        "name": "The Candle",
+        "description": "Projette une flamme qui endommage tout sur son passage, en diminuant de taille au fur et à mesure qu'elle se déplace.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Candle_icon.webp"
+    },
+    {
+        "id": "177",
+        "name": "Portable Slot",
+        "description": "Lors de son utilisation, il consomme 1 penny et a une chance de faire tomber un objet aléatoire, comme une machine à sous.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Portable_Slot_icon.webp"
+    },
+    {
+        "id": "195",
+        "name": "Mom's Coin Purse",
+        "description": "Crée 4 pilules aléatoires près d'Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Maman",
+        "image": "./img/items/Collectible_Moms_Coin_Purse_icon.webp"
+    },
+    {
+        "id": "199",
+        "name": "Mom's Key",
+        "description": "Ajoute 2 clés. Les coffres laisseront tomber des ramassables supplémentaires.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Maman",
+        "image": "./img/items/Collectible_Moms_Key_icon.webp"
+    },
+    {
+        "id": "203",
+        "name": "Humbleing Bundle",
+        "description": "Transforme les bombes, les clés, les centimes et les cœurs rouges en leurs versions doubles respectives. Cela se produit 50 % du temps.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Humbleing_Bundle_icon.webp"
+    },
+    {
+        "id": "204",
+        "name": "Fanny Pack",
+        "description": "A une chance de laisser tomber un ramassable aléatoire lorsque Isaac subit des dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Fanny_Pack_icon.webp"
+    },
+    {
+        "id": "205",
+        "name": "Sharp Plug",
+        "description": "Endommage Isaac en échange de la recharge complète de l'objet activé d'Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Sharp_Plug_icon.webp"
+    },
+    {
+        "id": "208",
+        "name": "Champion Belt",
+        "description": "+1 dégât. Augmente de 15% les chances d'apparition des champions ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Champion_Belt_icon.webp"
+    },
+    {
+        "id": "227",
+        "name": "Piggy Bank",
+        "description": "Donne 3 Pennies à la collecte. Chaque fois qu'Isaac est blessé, il laissera tomber une ou deux pièces supplémentaires.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Piggy_Bank_icon.webp"
+    },
+    {
+        "id": "232",
+        "name": "Stop Watch",
+        "description": "+0.3 vitesse. Ralentit tous les ennemis dans chaque pièce à 80% de leur vitesse.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Stop_Watch_icon.webp"
+    },
+    {
+        "id": "246",
+        "name": "Blue Map",
+        "description": "Révèle l'emplacement des salles secrètes et des salles super secrètes sur la carte.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Blue_Map_icon.webp"
+    },
+    {
+        "id": "247",
+        "name": "BFFS!",
+        "description": "Augmente la taille et l'efficacité de la plupart des familiers.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_BFFS_icon.webp"
+    },
+    {
+        "id": "248",
+        "name": "Hive Mind",
+        "description": "Augmente la taille des araignées bleues et des mouches bleues et double les dégâts qu'elles infligent. Augmente également l'efficacité des familiers mouches et araignées.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Hive_Mind_icon.webp"
+    },
+    {
+        "id": "249",
+        "name": "There's Options",
+        "description": "Deux objets apparaissent après avoir vaincu un Boss. Vous ne pouvez en prendre qu'un seul, l'autre disparaîtra.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Theres_Options_icon.webp"
+    },
+    {
+        "id": "250",
+        "name": "Bogo Bombs",
+        "description": "Toutes les bombes normales deviennent des doubles bombes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bogo_Bombs_icon.webp"
+    },
+    {
+        "id": "251",
+        "name": "Starter Deck",
+        "description": "Isaac peut porter 2 cartes à la fois et toutes les pilules sont remplacées par des cartes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Starter_Deck_icon.webp"
+    },
+    {
+        "id": "252",
+        "name": "Little Baggy",
+        "description": "Isaac peut porter 2 pilules à la fois et toutes les cartes et runes sont remplacées par des pilules.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Little_Baggy_icon.webp"
+    },
+    {
+        "id": "260",
+        "name": "Black Candle",
+        "description": "Prévient les malédictions. Accorde un Cœur Noir. Augmente les chances d'apparition d'une Salle du Diable ou d'une Salle de l'Ange.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Black_Candle_icon.webp"
+    },
+    {
+        "id": "286",
+        "name": "Blank Card",
+        "description": "Copie l'effet de la carte actuellement détenue par Isaac. Le temps de charge est basé sur la puissance de la carte.",
+        "unlock": "Débloquez cet objet en battant Isaac dans la cathédrale avec Eden.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Blank_Card_icon.webp"
+    },
+    {
+        "id": "289",
+        "name": "Red Candle",
+        "description": "Projette une flamme qui endommage tout ce qui se trouve sur son passage, en diminuant de taille lorsqu'elle touche des ennemis ou bloque des tirs.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Red_Candle_icon.webp"
+    },
+    {
+        "id": "290",
+        "name": "The Jar",
+        "description": "Lorsque vous êtes en pleine santé, vous pouvez stocker jusqu'à 4 cœurs rouges supplémentaires dans la jarre. L'activation fait tomber les cœurs stockés sur le sol.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Jar_icon.webp"
+    },
+    {
+        "id": "295",
+        "name": "Magic Fingers",
+        "description": "Utilise 1 Penny pour infliger des dégâts à tous les ennemis dans la pièce.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Magic_Fingers_icon.webp"
+    },
+    {
+        "id": "296",
+        "name": "Converter",
+        "description": "Convertit un cœur d'âme ou un cœur noir en un conteneur de cœur rouge rempli.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Converter_icon.webp"
+    },
+    {
+        "id": "297",
+        "name": "Pandora's Box",
+        "description": "À l'utilisation, fait apparaître des ramassables ou des objets spécifiques en fonction de l'étage sur lequel il est utilisé. Disparaît après utilisation.",
+        "unlock": "Débloquez cet objet en vainquant l'Agneau dans la salle noir en tant que Lazarus",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Pandoras_Box_icon.webp"
+    },
+    {
+        "id": "337",
+        "name": "Broken Watch",
+        "description": "Chaque quatrième salle découverte ralentit ou accélère les ennemis et leurs attaques. Les chances de ralentir les ennemis sont plus élevées que celles de les accélérer.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Broken_Watch_icon.webp"
+    },
+    {
+        "id": "338",
+        "name": "The Boomerang",
+        "description": "Lance un boomerang qui récupère les pickups, inflige des dégâts aux ennemis touchés et les pétrifie pendant 2 secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Boomerang_icon.webp"
+    },
+    {
+        "id": "347",
+        "name": "Diplopia",
+        "description": "Duplique tous les ramassages et les objets sur piédestaux dans la pièce.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Diplopia_icon.webp"
+    },
+    {
+        "id": "348",
+        "name": "Placebo",
+        "description": "A le même effet que la Pilule actuellement détenue par Isaac. Le temps de charge est basé sur la puissance de la pilule.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Placebo_icon.webp"
+    },
+    {
+        "id": "349",
+        "name": "Wooden Nickel",
+        "description": "Lorsqu'il est utilisé, il a environ 50 % de chances de faire tomber un penny, un nickel ou une pièce de 10 cents.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Wooden_Nickel_icon.webp"
+    },
+    {
+        "id": "356",
+        "name": "Car Battery",
+        "description": "L'objet activable d'Isaac s'active deux fois à chaque utilisation.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Car_Battery_icon.webp"
+    },
+    {
+        "id": "357",
+        "name": "Box of Friends",
+        "description": "Duplique tous les familiers d'Isaac dans la pièce actuelle. Si Isaac n'a pas de familiers, il crée un bébé démon dans la pièce.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Box_of_Friends_icon.webp"
+    },
+    {
+        "id": "372",
+        "name": "Charged Baby",
+        "description": "Fait apparaitre un familier qui, à l'occasion, laisse tomber une petite batterie, donne une charge d'objet active ou pétrifie tous les ennemis de la pièce.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Charged_Baby_icon.webp"
+    },
+    {
+        "id": "376",
+        "name": "Restock",
+        "description": "Permet aux boutiques de réapprovisionner instantanément leurs objets lorsqu'ils sont achetés.  En dehors du Greed mode, le coût de l'objet réapprovisionné est augmenté après chaque achat.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Restock_icon.webp"
+    },
+    {
+        "id": "356",
+        "name": "Pay to Play",
+        "description": "+5 pièces. Toutes les portes verrouillées, les coffres verrouillés et les blocs de clés doivent être ouverts avec un penny au lieu de clés.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Pay_to_Play_icon.webp"
+    },
+    {
+        "id": "383",
+        "name": "Tear Detonator",
+        "description": "Divise toutes les larmes d'Isaac qui sont actuellement en l'air en 6 larmes qui tirent dans toutes les directions et qui conservent leurs dégâts et leur vitesse de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Tear_Detonator_icon.webp"
+    },
+    {
+        "id": "396",
+        "name": "Ventricle Razor",
+        "description": "Crée jusqu'à deux portails qui restent en place même si Isaac quitte la pièce. En entrant dans un portail, Isaac est téléporté dans l'autre portail.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Ventricle_Razor_icon.webp"
+    },
+    {
+        "id": "402",
+        "name": "Chaos",
+        "description": "Laisse tomber 1 à 6 objets ramassables aléatoires sur le sol. Cause la sélection d'objets à partir de piscines d'objets aléatoires.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Chaos_icon.webp"
+    },
+    {
+        "id": "403",
+        "name": "Spider Mod",
+        "description": "Affiche les dégâts de la larme d'Isaac et les barres de santé des ennemis. Génère un familier qui se promène et inflige des effets d'état aléatoires aux ennemis qu'il touche. Peut faire apparaître une araignée bleue ou une petite batterie lorsqu'elle sort d'une pièce.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Spider_Mod_icon.webp"
+    },
+    {
+        "id": "414",
+        "name": "More Options",
+        "description": "Deux objets sont présentés dans chaque salle du trésor. Un seul peut être pris, l'autre disparaîtra.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_More_Options_icon.webp"
+    },
+    {
+        "id": "416",
+        "name": "Deep Pockets",
+        "description": "Augmente le plafond de pièces à 999. Si une salle ne donne lieu à aucune récompense, 1 à 3 pièces apparaîtront.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Deep_Pockets_icon.webp"
+    },
+    {
+        "id": "422",
+        "name": "Glowing Hourglass",
+        "description": "Remonte le temps, ramenant Isaac dans la pièce précédente et annulant tout ce qui s'est passé dans la pièce actuelle. Ne peut être utilisé que trois fois par étage, après quoi il fonctionne comme The Hourglass jusqu'au prochain étage.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Glowing_Hourglass_icon.webp"
+    },
+    {
+        "id": "424",
+        "name": "Sack Head",
+        "description": "Crée un sac fourre-tout lorsqu'il est ramassé. Les pièces, les bombes, les clés, les cartes, les runes et les batteries ont une chance de devenir des sacs fourre-tout.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Sack_Head_icon.webp"
+    },
+    {
+        "id": "425",
+        "name": "Night Light",
+        "description": "Un cône de lumière brille dans la direction où Isaac se déplace et ralentit les ennemis et les tirs ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Night_Light_icon.webp"
+    },
+    {
+        "id": "434",
+        "name": "Jar of Flies",
+        "description": "Tuer un ennemi ajoute une mouche à la jarre, jusqu'à un maximum de 20. Lors de l'utilisation, libère un nombre de mouches bleues égal au nombre de mouches dans le bocal.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Jar_of_Flies_icon.webp"
+    },
+    {
+        "id": "439",
+        "name": "Mom's Box",
+        "description": "Augmente la chance de 1 et double les effets des babioles lorsqu'il est tenu. Lorsqu'il est utilisé, il laisse tomber une babiole aléatoire sur le sol.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moms_Box_icon.webp"
+    },
+    {
+        "id": "451",
+        "name": "Tarot Cloth",
+        "description": "Lâche une carte ou une rune aléatoire. Double les effets des cartes de tarot.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Tarot_Cloth_icon.webp"
+    },
+    {
+        "id": "472",
+        "name": "King Baby",
+        "description": "Fait apparaitre un familier qui suit Isaac et incite les autres familiers à le suivre. Pendant qu'il tire des larmes, les autres familiers s'arrêtent de bouger.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_King_Baby_icon.webp"
+    },
+    {
+        "id": "475",
+        "name": "Plan C",
+        "description": "Tue tous les ennemis dans la pièce, puis tue Isaac trois secondes plus tard.",
+        "unlock": "Débloquez cet objet en vainquant Greedier en tant que Lazarus",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Plan_C_icon.webp"
+    },
+    {
+        "id": "479",
+        "name": "Smelter",
+        "description": "Consomme la babiole que tient Isaac et applique son effet de façon permanente.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Smelter_icon.webp"
+    },
+    {
+        "id": "480",
+        "name": "Compost",
+        "description": "Double les Mouches Bleues et les Araignées Bleues d'Isaac, ou en fait apparaître une si Isaac n'en a pas. Convertit les objets ramassables dans la salle actuelle en Mouches Bleues ou en Araignées Bleues.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Compost_icon.webp"
+    },
+    {
+        "id": "483",
+        "name": "Mama Mega!",
+        "description": "Endommage tous les ennemis et détruit tous les obstacles. L'effet se produit à chaque fois que l'on entre dans une nouvelle pièce pour le reste de l'étage. Ouvre les portes des salles secrètes et super secrètes de l'étage.",
+        "unlock": "Feature coming soon",
+        "type": "Activable & Bombes",
+        "image": "./img/items/Collectible_Mama_Mega_icon.webp"
+    },
+    {
+        "id": "485",
+        "name": "Crooked Penny",
+        "description": "Fait apparaître un penny et a une chance de 50% de doubler tous les objets et ramassages dans la pièce. Si l'effet échoue, les objets et ramassages disparaissent.",
+        "unlock": "Débloquez cet objet en vainquant Délirium dans le void en tant que Keeper.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Crooked_Penny_icon.webp"
+    },
+    {
+        "id": "486",
+        "name": "Dull Razor",
+        "description": "Blesse Isaac sans réduire sa santé et active les objets qui se déclenchent lorsqu'il subit des dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Dull_Razor_icon.webp"
+    },
+    {
+        "id": "487",
+        "name": "Potato Peeler",
+        "description": "Supprime un conteneur de cœur, augmente les dégâts et la portée, et octroie un cube de viande.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Potato_Peeler_icon.webp"
+    },
+    {
+        "id": "500",
+        "name": "Sack of Sacks",
+        "description": "Fait apparaître un familier qui laisse tomber un Grab Bag toutes les 5-6 salles nettoyées.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Sack_of_Sacks_icon.webp"
+    },
+    {
+        "id": "505",
+        "name": "Poke Go",
+        "description": "En entrant dans une pièce contenant des ennemis, vous avez une chance de faire apparaître un ennemi ami aléatoire qui persiste d'une pièce à l'autre.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Poke_Go_icon.webp"
+    },
+    {
+        "id": "514",
+        "name": "Broken Modem",
+        "description": "Les ennemis, les tirs ennemis, les larmes et les ramassables se figent brièvement sur place à des intervalles aléatoires.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Broken_Modem_icon.webp"
+    },
+    {
+        "id": "515",
+        "name": "Mystery Gift",
+        "description": "Lorsqu'il est utilisé, il génère un objet aléatoire de la réserve d'objets de la pièce en cours, avec une chance de générer un morceau de charbon ou du caca à la place.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Mystery_Gift_icon.webp"
+    },
+    {
+        "id": "518",
+        "name": "Buddy in a Box",
+        "description": "Fait apparaitre un familier avec un effet de larme aléatoire. Le familier est aléatoire au début de chaque étage.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Buddy_in_a_Box_icon.webp"
+    },
+    {
+        "id": "520",
+        "name": "Jumper Cables",
+        "description": "Octroie une charge d'objet activable tous les 15 ennemis tués.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Jumper_Cables_icon.webp"
+    },
+    {
+        "id": "521",
+        "name": "Coupon",
+        "description": "Lorsqu'il est tenu, il garantit qu'un objet de chaque boutique sera en vente. Lors de l'utilisation, un objet aléatoire de la pièce actuelle devient gratuit.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Coupon_icon.webp"
+    },
+    {
+        "id": "523",
+        "name": "Moving Box",
+        "description": "Si la boîte est vide, il ramasse les objets et les ramassables dans une pièce et les stocke. Si la boîte n'est pas vide, elle place tous les objets stockés et les ramassables dans la pièce actuelle.  Peut transporter jusqu'à 10 objets ou ramassables à la fois.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moving_Box_icon.webp"
+    },
+    {
+        "id": "527",
+        "name": "Mr. ME!",
+        "description": "Invoque un fantôme contrôlable qui peut effectuer diverses tâches en fonction de la cible.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Mr._ME_icon.webp"
+    },
+    {
+        "id": "534",
+        "name": "Schoolbag",
+        "description": "Permet à Isaac de porter deux objets actifs.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "img/items/Collectible_Schoolbag_icon.webp"
+    },
+    {
+        "id": "535",
+        "name": "Blanket",
+        "description": "Accorde un coeur d'âme. En entrant dans la salle d'un boss, octroie un bouclier qui bloque un coup, puis disparaît.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Blanket_icon.webp"
+    },
+    {
+        "id": "566",
+        "name": "Dream Catcher",
+        "description": "Pendant la transition entre les étages, le cauchemar d'Isaac montre le contenu de la Salle au trésor du prochain étage, ainsi que le boss de l'étage. Accorde un demi-cœur d'âme en entrant dans un nouvel étage.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Dream_Catcher.webp"
+    },
+    {
+        "id": "585",
+        "name": "Alabaster Box",
+        "description": "Apparaît trois cœurs d'âme et deux objets de la Salle de l'ange et est consommé. Commence sans charges et ne peut être chargé qu'en ramassant 6 cœurs d'âme.",
+        "unlock": "Débloquez cet objet en battant l'agneau en tant que Bettany.",
+        "type": "Activable",
+        "image": "./img/items/Alabaster_Box.webp"
+    },
+    {
+        "id": "599",
+        "name": "Voodoo Head",
+        "description": "Ajoute une salle de malédiction supplémentaire à chaque étage. Les salles de malédiction ont des agencements améliorés.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Voodoo_Head.webp"
+    },
+    {
+        "id": "602",
+        "name": "Member Card",
+        "description": "Ajoute une trappe à chaque boutique qui mène à une deuxième boutique avec un stock unique et des prix majorés.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Member_Card_icon.webp"
+    },
+    {
+        "id": "603",
+        "name": "Battery Pack",
+        "description": "Recharge l'objet activable détenu par Isaac et laisse tomber 2 à 4 piles.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Battery_Pack_icon.webp"
+    },
+    {
+        "id": "604",
+        "name": "Mom's Bracelet",
+        "description": "Permet à Isaac de ramasser et de lancer des rochers, des TNT, des crottes, des caca amicales, des bombes et d'autres obstacles.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moms_Bracelet_icon.webp"
+    },
+    {
+        "id": "619",
+        "name": "Birthright",
+        "description": "Accorde un effet spécifique au personnage qui améliore ses capacités spéciales.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Birthright_icon.webp"
+    },
+    {
+        "id": "621",
+        "name": "Red Stew",
+        "description": "Remplit tous les conteneurs de cœur. Accorde une énorme augmentation des dégâts qui s'estompe avec le temps.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Red_Stew_icon.webp"
+    },
+    {
+        "id": "623",
+        "name": "Sharp Key",
+        "description": "Ajoute 5 clés au ramassage. Permet à Isaac de lancer ses clés pour infliger des dégâts aux ennemis, détruire des obstacles et ouvrir des portes.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Sharp_Key_icon.webp"
+    },
+    {
+        "id": "624",
+        "name": "Booster Pack",
+        "description": "Fait apparaitre 5 cartes aléatoires.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Booster_Pack_icon.webp"
+    },
+    {
+        "id": "638",
+        "name": "Eraser",
+        "description": "Lance une gomme qui tue instantanément le premier monstre qu'elle touche et empêche ce monstre d'apparaître pour le reste de la course. Ne peut être utilisé qu'une seule fois par étage.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Eraser_icon.webp"
+    },
+    {
+        "id": "642",
+        "name": "Magic Skin",
+        "description": "Consomme un conteneur de cœur ou deux cœurs d'âme pour faire apparaître un objet et donne à Isaac un conteneur de cœur brisé qui ne peut jamais être rempli. Si Magic Skin n'est pas conservé après utilisation, il est très probable qu'il remplace tous les futurs objets.",
+        "unlock": "Débloquez cet objet en vainquant Mother dans le Corpse II en tant que Jacob et Esaü",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Magic_Skin_icon.webp"
+    },
+    {
+        "id": "647",
+        "name": "4.5 Volt",
+        "description": "Les objets activables ne se chargent plus en nettoyant les salles. Ils se rechargent en infligeant des dégâts aux ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_4.5_Volt_icon.webp"
+    },
+    {
+        "id": "660",
+        "name": "Card Reading",
+        "description": "Crée deux portails au début de chaque étage, qui mènent chacun à la salle du boss (rouge), à la salle du trésor (jaune) ou à la salle secrète (bleu).",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Card_Reading_icon.webp"
+    },
+    {
+        "id": "670",
+        "name": "Options?",
+        "description": "Si une salle donne une récompense lorsqu'elle est nettoyée, il y aura deux récompenses différentes à choisir. Le fait d'en prendre une fait disparaître l'autre.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Options_icon.webp"
+    },
+    {
+        "id": "716",
+        "name": "Keeper's Sack",
+        "description": "Donne de la portée, de la vitesse ou des dégâts lorsque vous achetez des objets dans une boutique. Fait également apparaître trois pièces et une clé lors de la prise.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Keepers_Sack_icon.webp"
+    },
+    {
+        "id": "719",
+        "name": "Keeper's Box",
+        "description": "Fait apparaître un objet ou un objet ramassable aléatoire en magasin qui peut être acheté pour son prix normal.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Keepers_Box_icon.webp"
+    }
+]

@@ -1,0 +1,3290 @@
+[
+    {
+        "id": "1",
+        "name": "The Sad Onion",
+        "description": "Augmente la vitesse de tir d'Isaac.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Sad_Onion_icon.webp"
+    },
+    {
+        "id": "2",
+        "name": "The Inner Eye",
+        "description": "Permet à Isaac de tirer trois larmes à la fois, avec une légère diminution de la vitesse de tir.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Inner_Eye_icon.webp"
+    },
+    {
+        "id": "3",
+        "name": "Spoon Bender",
+        "description": "Les larmes d'Isaac deviennent des larmes guidées.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Spoon_Bender_icon.webp"
+    },
+    {
+        "id": "4",
+        "name": "Cricket's Head",
+        "description": "Augmente les dégâts de 0,5 et multiplie le multiplicateur de dégâts par x1,5.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Crickets_Head_icon.webp"
+    },
+    {
+        "id": "5",
+        "name": "My Reflection",
+        "description": "Donne à Isaac des larmes avec un effet boomerang. 2x + 1,5 de portée, +1,5 de dégâts, -1 de chance, multiplicateur de vitesse de tir 1,6x.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_My_Reflection_icon.webp"
+    },
+    {
+        "id": "6",
+        "name": "Number One",
+        "description": "Augmente considérablement la vitesse de tir d'Isaac, mais diminue la portée.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Number_One_icon.webp"
+    },
+    {
+        "id": "7",
+        "name": "Blood of the Martyr",
+        "description": "+1 de dégâts. Isaac tire des larmes de sang.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Blood_of_the_Martyr_icon.webp"
+    },
+    {
+        "id": "8",
+        "name": "Brother Bobby",
+        "description": "Cet objet est un familier qui suit Isaac et tire des larmes infligeant 3,5 points de dégâts. Il tire plus fréquemment que la plupart des familiers.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Brother_Bobby_icon.webp"
+    },
+    {
+        "id": "10",
+        "name": "Halo of Flies",
+        "description": "Cet objet crée deux Pretty Flies qui bloquent les tirs ennemis et infligent des dégâts au contact des mouches.",
+        "unlock": "",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Halo_of_Flies_icon.webp"
+    },
+    {
+        "id": "12",
+        "name": "Magic Mushroom",
+        "description": "Rend Isaac plus grand. Ajoute un conteneur de cœur rouge, +0,3 de dégâts, un multiplicateur de dégâts x1,5, +2,5 de portée et +0,3 de vitesse, et restaure toute la santé.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Champignon",
+        "image": "./img/items/Collectible_Magic_Mushroom_icon.webp"
+    },
+    {
+        "id": "13",
+        "name": "The Virus",
+        "description": "Isaac empoisonne les ennemis au contact. +0,2 vitesse.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Aiguille",
+        "image": "./img/items/Collectible_The_Virus_icon.webp"
+    },
+    {
+        "id": "14",
+        "name": "Roid Rage",
+        "description": "+0,3 de vitesse, +2,5 de portée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Aiguille",
+        "image": "./img/items/Collectible_Roid_Rage_icon.webp"
+    },
+    {
+        "id": "15",
+        "name": "<3",
+        "description": "Accorde à Isaac un conteneur de cœur rouge et restaure entièrement la santé d'Isaac.",
+        "Unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Less_Than_Three.webp"
+    },
+    {
+        "id": "17",
+        "name": "Skeleton Key",
+        "description": "Donne à Isaac 99 clés.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Skeleton_Key_icon.webp"
+    },
+    {
+        "id": "19",
+        "name": "Boom!",
+        "description": "Donne à Isaac 10 bombes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Boom_icon.webp"
+    },
+    {
+        "id": "36",
+        "name": "The Poop",
+        "description": "Crée un tas de caca à l'endroit où Isaac se tient et repousse les ennemis à proximité. Peut produire des récompenses comme un caca normal.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Poop_icon.webp"
+    },
+    {
+        "id": "37",
+        "name": "Mr. Boom",
+        "description": "Places une bombe Mr. Méga qui inflige 185 dégâts.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Mr._Boom_icon.webp"
+    },
+    {
+        "id": "38",
+        "name": "Tammy's Head",
+        "description": "Tire 10 larmes en cercle autour d'Isaac, qui conservent les dégâts, la portée, la vitesse de tir et les effets spéciaux (comme le poison) des larmes d'Isaac. Les larmes de cet objet ont un bonus de dégâts plat de +25.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Tammys_Head_icon.webp"
+    },
+    {
+        "id": "39",
+        "name": "Mom's Bra",
+        "description": "Pétrifie tous les ennemis dans la salle actuelle pendant 4 secondes.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moms_Bra_icon.webp"
+    },
+    {
+        "id": "40",
+        "name": "Kamikaze!",
+        "description": "Crée une explosion autour d'Isaac, le blessant ainsi que les ennemis à proximité et détruisant les obstacles.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Kamikaze_icon.webp"
+    },
+    {
+        "id": "41",
+        "name": "Mom's Pad",
+        "description": "Inflige la peur à tous les ennemis dans la salle pendant 4 secondes. Fait apparaître une mouche bleue.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moms_Pad_icon.webp"
+    },
+    {
+        "id": "42",
+        "name": "Bob's Rotten Head",
+        "description": "À l'utilisation, Isaac tient une bombe empoisonnée qui peut être lancée dans les directions cardinales et explose à l'impact.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Bobs_Rotten_Head_icon.webp"
+    },
+    {
+        "id": "44",
+        "name": "Teleport!",
+        "description": "Téléporte Isaac dans une salle aléatoire de l'étage actuel.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Teleport_icon.webp"
+    },
+    {
+        "id": "45",
+        "name": "Yum Heart",
+        "description": "Restaure un cœur rouge complet.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Yum_Heart_icon.webp"
+    },
+    {
+        "id": "46",
+        "name": "Lucky Foot",
+        "description": "+1 chance. Améliore les chances d'Isaac lors de divers événements aléatoires (indépendamment de la statistique de chance). Convertit toutes les mauvaises pilules en bonnes pilules, sans les identifier.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Lucky_Foot_icon.webp"
+    },
+    {
+        "id": "47",
+        "name": "Doctor's Remote",
+        "description": "Crée une cible au sol qui peut être visée avec les commandes de tir. Un missile frappe l'endroit après 2 secondes, créant une explosion de dégâts importants.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Doctors_Remote_icon.webp"
+    },
+    {
+        "id": "48",
+        "name": "Cupid's Arrow",
+        "description": "Confère à Isaac des larmes perforantes qui traversent les ennemis (mais pas les obstacles) au lieu de se briser à leur contact.",
+        "unlock": "",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Cupids_Arrow_icon.webp"
+    },
+    {
+        "id": "49",
+        "name": "Shoop Da Whoop!",
+        "description": "Tire un laser de la bouche d'Isaac.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Shoop_Da_Whoop_icon.webp"
+    },
+    {
+        "id": "52",
+        "name": "Dr. Fetus",
+        "description": "Les larmes sont remplacées par des bombes qui bénéficient des effets d'amélioration des bombes et glissent pendant un temps fixe après avoir été tirées.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Dr._Fetus_icon.webp"
+    },
+    {
+        "id": "53",
+        "name": "Magneto",
+        "description": "Attire les ramassables vers Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Magneto_icon.webp"
+    },
+    {
+        "id": "55",
+        "name": "Mom's Eye",
+        "description": "Donne à Isaac une chance de tirer des larmes depuis l'arrière de sa tête.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Maman",
+        "image": "./img/items/Collectible_Moms_Eye_icon.webp"
+    },
+    {
+        "id": "56",
+        "name": "Lemon Mishap",
+        "description": "Crée une petite flaque de bave jaune, endommageant les ennemis qui la traversent.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Lemon_Mishap_icon.webp"
+    },
+    {
+        "id": "57",
+        "name": "Distant Admiration",
+        "description": "Fait apparaître une mouche d'attaque qui tournoie à une distance intermédiaire entre Halo of Flies et Forever Alone, infligeant 75 points de dégâts par seconde.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Mouche",
+        "image": "./img/items/Collectible_Distant_Admiration_icon.webp"
+    },
+    {
+        "id": "58",
+        "name": "Book of Shadows",
+        "description": "Crée un bouclier protecteur, annulant tous les types de dégâts dans la pièce actuelle pendant 10 secondes.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/Book_of_Shadows.webp"
+    },
+    {
+        "id": "62",
+        "name": "Charm of the Vampire",
+        "description": "Soigne Isaac d'un demi-cœur rouge pour chaque 13 ennemis tués. Ajoute +0,3 de dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Charm_of_the_Vampire_icon.webp"
+    },
+    {
+        "id": "65",
+        "name": "Anarchist Cookbook",
+        "description": "Fait apparaître six bombes de troll dans la pièce.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/Anarchist_Cookbook.webp"
+    },
+    {
+        "id": "66",
+        "name": "The Hourglass",
+        "description": "Tous les ennemis dans la salle sont ralentis pendant 8 secondes.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Hourglass_icon.webp"
+    },
+    {
+        "id": "67",
+        "name": "Sister Maggy",
+        "description": "Cet objet invoque un familier qui suit Isaac et tire des larmes infligeant 6 points de dégâts.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Sister_Maggy_icon.webp"
+    },
+    {
+        "id": "68",
+        "name": "Technology",
+        "description": "Remplace les larmes par un laser perforant avec une portée illimitée.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Technology_icon.webp"
+    },
+    {
+        "id": "69",
+        "name": "Chocolate Milk",
+        "description": "Accorde des larmes chargées qui infligent plus de dégâts lorsqu'elles sont complètement chargées.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Chocolate_Milk_icon.webp"
+    },
+    {
+        "id": "71",
+        "name": "Mini Mush",
+        "description": "Diminue la taille d'Isaac, ce qui le rend moins susceptible d'être touché. +0,3 vitesse, +2,5 portée.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Mini_Mush_icon.webp"
+    },
+    {
+        "id": "72",
+        "name": "Rosary",
+        "description": "Accorde 3 Cœurs d'Âme. Fait apparaître la Bible dans n'importe quelle pool d'objets. +0,5 larmes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Rosary_icon.webp"
+    },
+    {
+        "id": "74",
+        "name": "A Quarter",
+        "description": "Donne a Isaac 25 pièces.",
+        "unlock": "Débloquez cet objet en battant le Cœur de Maman 8 fois.",
+        "type": "Passif",
+        "image": "./img/items/Collectible_A_Quarter_icon.webp"
+    },
+    {
+        "id": "75",
+        "name": "PHD",
+        "description": "Transforme toutes les mauvaises pilules en bonnes pilules, fait apparaître un pickup de pilule et identifie toutes les pilules. Restaure deux cœurs rouges et augmente le paiement des machines à don de sang.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_PHD_icon.webp"
+    },
+    {
+        "id": "76",
+        "name": "X-Ray Vision",
+        "description": "Révèle et ouvre toutes les entrées des Salles Secrètes et des Super Salles Secrètes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_X-Ray_Vision_icon.webp"
+    },
+    {
+        "id": "77",
+        "name": "My Little Unicorn",
+        "description": "Confère une invulnérabilité et +0,28 de vitesse pendant six secondes, supprimant la capacité de tirer des larmes et la remplaçant par la capacité d'infliger des dégâts au contact des ennemis.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_My_Little_Unicorn_icon.webp"
+    },
+    {
+        "id": "78",
+        "name": "Book of Revelations",
+        "description": "Augmente la chance qu'une salle du Diable / de l'Ange apparaisse tant qu'il est en possession. Lors de l'utilisation, accorde un cœur d'âme et remplace le boss de l'étage actuel par un Harbinger si possible.",
+        "unlock": "Débloquez cet objet en battant l'un des boss cavaliers pour la première fois.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Book_of_Revelations.webp"
+    },
+    {
+        "id": "85",
+        "name": "Deck of Cards",
+        "description": "Donne à Isaac une carte aléatoire.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Deck_of_Cards_icon.webp"
+    },
+    {
+        "id": "86",
+        "name": "Monstro's Tooth",
+        "description": "Un Monstro amical saute sur un ennemi aléatoire, infligeant 120 dégâts de zone. Cible Isaac s'il est utilisé dans une salle sans ennemis.",
+        "unlock": "Finir le deuxieme niveau pour la première fois",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Monstros_Tooth_icon.webp"
+    },
+    {
+        "id": "87",
+        "name": "Loki's Horns",
+        "description": "Donne une chance aléatoire aux projectiles de tirer dans les 4 directions cardinales.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Lokis_Horns_icon.webp"
+    },
+    {
+        "id": "88",
+        "name": "Little Chubby",
+        "description": "Fait apparaître un familier Chargeur qui fonce en avant et inflige des dégâts de contact à tous les ennemis sur son chemin.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Little_Chubby_icon.webp"
+    },
+    {
+        "id": "89",
+        "name": "Spider Bite",
+        "description": "Ajoute une chance de tirer des larmes ralentissantes, réduisant la vitesse de déplacement des ennemis et de tout projectile tiré par eux.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Spider_Bite_icon.webp"
+    },
+    {
+        "id": "91",
+        "name": "Spelunker Hat",
+        "description": "Révèle le type de salles adjacentes, y compris l'emplacement des salles secrètes et des super salles secrètes. Révèle les salles jusqu'à 2 salles de distance et bloque les projectiles tombant d'en haut.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Spelunker_Hat_icon.webp"
+    },
+    {
+        "id": "92",
+        "name": "Super Bandage",
+        "description": "Accorde un conteneur complet de Cœur Rouge et 2 Cœurs d'Âme.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Super_Bandage_icon.webp"
+    },
+    {
+        "id": "93",
+        "name": "The Gamekid",
+        "description": "Transforme Isaac en une créature semblable à Pac-Man pendant 6,5 secondes, lui conférant une invulnérabilité, infligeant la peur à tous les ennemis, et a une chance de réapprovisionner un demi-cœur rouge à chaque fois qu'un ennemi est tué.",
+        "unlock": "Débloquez cet objet en visitant 10 fois la salle d'arcade.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Gamekid_icon.webp"
+    },
+    {
+        "id": "94",
+        "name": "Sack of Pennies",
+        "description": "Fait apparaître un familier qui laisse tomber une pièce toutes les 2 salles.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Sack_of_Pennies_icon.webp"
+    },
+    {
+        "id": "95",
+        "name": "Robo-Baby",
+        "description": "Fait apparaître un familier qui tire des lasers de Technologie.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Robo-Baby_icon.webp"
+    },
+    {
+        "id": "96",
+        "name": "Little C.H.A.D.",
+        "description": "Fait apparaître un familier qui laisse tomber un demi-cœur rouge tous les 3 salles.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Little_C.H.A.D._icon.webp"
+    },
+    {
+        "id": "97",
+        "name": "The Book of Sin",
+        "description": "Génère un objet aléatoire ramassable, une pilule, une carte ou une rune.",
+        "unlock": "Débloquez cet objet en battant chacun des sept péchés une fois.",
+        "type": "Activable & Livre",
+        "image": "./img/items/The_Book_of_Sin.webp"
+    },
+    {
+        "id": "98",
+        "name": "The Relic",
+        "description": "Fait apparaître un familier en forme de croix qui laisse tomber un Cœur d'Âme après avoir nettoyé suffisamment de salles.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_The_Relic_icon.webp"
+    },
+    {
+        "id": "99",
+        "name": "Little Gish",
+        "description": "Fait apparaître un familier qui tire des larmes ralentissantes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Little_Gish_icon.webp"
+    },
+    {
+        "id": "100",
+        "name": "Little Steven",
+        "description": "Crée un familier qui suit Isaac et tire des larmes traqueuses.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Little_Steven_icon.webp"
+    },
+    {
+        "id": "101",
+        "name": "The Halo",
+        "description": "Accorde un conteneur de Cœur Rouge complet, +0,3 de dégâts, +0,2 larmes, +1,5 de portée et +0,3 de vitesse. Soigne 1 Cœur Rouge supplémentaire.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Halo_icon.webp"
+    },
+    {
+        "id": "102",
+        "name": "Mom's Bottle of Pills",
+        "description": "À l'utilisation, donne à Isaac une pilule aléatoire.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Moms_Bottle_of_Pills_icon.webp"
+    },
+    {
+        "id": "103",
+        "name": "The Common Cold",
+        "description": "Ajoute une chance de tirer des larmes empoisonnées, infligeant des dégâts au fil du temps lorsqu'elles sont infligées.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Common_Cold_icon.webp"
+    },
+    {
+        "id": "104",
+        "name": "The Parasite",
+        "description": "Les larmes d'Isaac se divisent en deux lorsqu'elles touchent quelque chose.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Parasite_icon.webp"
+    },
+    {
+        "id": "105",
+        "name": "The D6",
+        "description": "Réinitialise tous les objets dans la salle actuelle en d'autres objets, en fonction du pool d'objets actuel de la salle.",
+        "unlock": "Débloquez cet objet en vainquant Isaac dans la cathédrale en tant que ??? (Blue Baby).",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_D6_icon.webp"
+    },
+    {
+        "id": "106",
+        "name": "Mr. Mega",
+        "description": "+5 Bombes. Augmente la taille, le rayon d'explosion et les dégâts des bombes d'Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Mr._Mega_icon.webp"
+    },
+    {
+        "id": "107",
+        "name": "The Pinking Shears",
+        "description": "Sépare la tête d'Isaac de son corps pour la salle actuelle, accordant le vol et transformant le corps en un familier qui poursuit les ennemis.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Pinking_Shears_icon.webp"
+    },
+    {
+        "id": "108",
+        "name": "The Wafer",
+        "description": "La plupart des sources de dégâts qui causeraient plus d'un demi-cœur de dégâts sont réduites à un demi-cœur.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Wafer_icon.webp"
+    },
+    {
+        "id": "109",
+        "name": "Money = Power",
+        "description": "Pour chaque pièce de monnaie que possède Isaac, il obtient +0,04 de dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Money_Power_icon.webp"
+    },
+    {
+        "id": "110",
+        "name": "Mom's Contacts",
+        "description": "Ajoute une chance de tirer des larmes pétrifiantes, qui immobilisent les ennemis pendant quelques secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Moms_Contacts_icon.webp"
+    },
+    {
+        "id": "111",
+        "name": "The Bean",
+        "description": "Isaac pète, empoisonnant tout ennemi à proximité.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Bean_icon.webp"
+    },
+    {
+        "id": "113",
+        "name": "Demon Baby",
+        "description": "Crée un familier qui suit Isaac et tire automatiquement sur les ennemis à sa portée.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Demon_Baby_icon.webp"
+    },
+    {
+        "id": "114",
+        "name": "Mom's Knife",
+        "description": "Les larmes d'Isaac sont remplacées par un couteau qui transperce les ennemis, peut traverser les obstacles et peut blesser les ennemis tant qu'Isaac le tient. Maintenir le bouton de tir enfoncé avant de tirer augmente sa portée et sa puissance.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Moms_Knife_icon.webp"
+    },
+    {
+        "id": "115",
+        "name": "Ouija Board",
+        "description": "Accorde des larmes spectrales qui traversent les obstacles (mais pas les ennemis). +0.5 larmes.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Ouija_Board_icon.webp"
+    },
+    {
+        "id": "117",
+        "name": "Dead Bird",
+        "description": "Après qu'Isaac a subi des dégâts, invoque un familier volant qui pourchasse les ennemis dans la pièce actuelle, infligeant environ 4 points de dégâts par seconde.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Dead_Bird_icon.webp"
+    },
+    {
+        "id": "120",
+        "name": "Odd Mushroom",
+        "description": "+1,7 de larmes, +0,3 de vitesse, réduit légèrement les dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Champignon",
+        "image": "./img/items/Collectible_Odd_Mushroom_icon.webp"
+    },
+    {
+        "id": "121",
+        "name": "Odd Mushroom",
+        "description": "Accorde un conteneur de cœur complet, +1 de dégâts, +1,5 de portée et -0,2 de vitesse.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Champignon",
+        "image": "./img/items/Collectible_Odd_Mushroom_29_icon.webp"
+    },
+    {
+        "id": "123",
+        "name": "Monster Manual",
+        "description": "Fait apparaître un familier parmi une sélection spécifique pour l'étage actuel.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/Monster_Manual.webp"
+    },
+    {
+        "id": "124",
+        "name": "Dead Sea Scrolls",
+        "description": "Déclenche l'effet d'un objet activable aléatoire parmi une liste d'options possibles (tous les objets activables ne sont pas inclus).",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Dead_Sea_Scrolls_icon.webp"
+    },
+    {
+        "id": "125",
+        "name": "Bobby-Bomb",
+        "description": "+5 Bombes. Les bombes acquièrent un effet de recherche, se déplaçant lentement vers l'ennemi le plus proche.",
+        "unlock": "De base",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Bobby-Bomb_icon.webp"
+    },
+    {
+        "id": "126",
+        "name": "Razor Blade",
+        "description": "Perd un cœur de santé et accorde +1.2 de dégâts pour la pièce actuelle. Les utilisations répétées dans la même pièce ne coûtent qu'un demi-cœur.",
+        "unlock": "Débloquez cet objet en vainquant Satan en enfer en tant que Eve",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Razor_Blade_icon.webp"
+    },
+    {
+        "id": "127",
+        "name": "Forget Me Now",
+        "description": "Lorsqu'il est utilisé, il régénère le sol actuel avec une nouvelle disposition. Isaac perd Forget Me Now, mais conserve les autres objets et consommables ramassés sur le sol original.",
+        "unlock": "Débloquez cet objet en vainquant Satan en enfer en tant que ???.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Forget_Me_Now_icon.webp"
+    },
+    {
+        "id": "128",
+        "name": "Forever Alone",
+        "description": "Fait apparaître une mouche d'attaque qui orbite à une longue distance d'Isaac, infligeant 30 points de dégâts par seconde.",
+        "unlock": "De base",
+        "type": "Passif & Mouche",
+        "image": "./img/items/Collectible_Forever_Alone_icon.webp"
+    },
+    {
+        "id": "129",
+        "name": "Bucket of Lard",
+        "description": "Accorde deux conteneurs de cœurs rouges, -0,2 vitesse.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bucket_of_Lard_icon.webp"
+    },
+    {
+        "id": "131",
+        "name": "Bomb Bag",
+        "description": "Fait apparaître un familier qui laisse tomber une bombe toutes les 3 salles.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Bomb_Bag_icon.webp"
+    },
+    {
+        "id": "136",
+        "name": "Best Friend",
+        "description": "Fait apparaître un Isaac factice qui explose après 5 secondes. Les ennemis ciblent toujours le leurre et ignorent Isaac.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Best_Friend_icon.webp"
+    },
+    {
+        "id": "137",
+        "name": "Remote Detonator",
+        "description": "Les bombes placées par Isaac n'explosent que lorsque le Détonateur à distance est utilisé. Donne 5 bombes.",
+        "unlock": "De base",
+        "type": "Activable & Bombes",
+        "image": "./img/items/Collectible_Remote_Detonator_icon.webp"
+    },
+    {
+        "id": "138",
+        "name": "Stigmata",
+        "description": "+0,3 de dégâts, accorde un conteneur de Cœur Rouge complet. Soigne 1 Cœur Rouge supplémentaire.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Stigmata_icon.webp"
+    },
+    {
+        "id": "140",
+        "name": "Bob's Curse",
+        "description": "+5 Bombes. Accorde aux bombes d'Isaac un effet de poison. (dans Repentance) Elles laissent également un nuage de poison persistant, et Isaac devient immunisé au poison.",
+        "unlock": "De base",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Bobs_Curse_icon.webp"
+    },
+    {
+        "id": "142",
+        "name": "Scapular",
+        "description": "Une fois par salle, lorsque Isaac est réduit à son dernier demi-cœur, il se voit accorder un Cœur d'Âme.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Scapular_icon.webp"
+    },
+    {
+        "id": "143",
+        "name": "Speed Ball",
+        "description": "+0,3 de vitesse, +0,2 de vitesse de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Aiguille",
+        "image": "./img/items/Collectible_Speed_Ball_icon.webp"
+    },
+    {
+        "id": "144",
+        "name": "Bum Friend",
+        "description": "Fait apparaître un familier qui ramasse des pièces pour lui-même, donnant en retour des objets aléatoires. Peut faire apparaître des objets du pool d'objets des mendiants.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bum_Friend_icon.webp"
+    },
+    {
+        "id": "146",
+        "name": "Prayer Card",
+        "description": "Donne un Cœur Éternel par utilisation.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Prayer_Card_icon.webp"
+    },
+    {
+        "id": "147",
+        "name": "Notched Axe",
+        "description": "Alterne entre les larmes et la pioche, qui peut être utilisée pour attaquer et briser les obstacles. Son utilisation épuise la charge, et elle ne peut être réutilisée qu'au prochain étage une fois la charge épuisée.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Notched_Axe_icon.webp"
+    },
+    {
+        "id": "148",
+        "name": "Infestation",
+        "description": "2 à 6 Mouches bleues apparaissent aléatoirement à chaque fois qu'Isaac est touché.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Infestation_icon.webp"
+    },
+    {
+        "id": "149",
+        "name": "Ipecac",
+        "description": "Remplace les larmes par des projectiles explosifs et empoisonnés tirés en arc depuis la bouche.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Ipecac_icon.webp"
+    },
+    {
+        "id": "150",
+        "name": "Tough Love",
+        "description": "Ajoute une chance de tirer une dent au lieu d'une larme, infligeant x3,2 les dégâts d'Isaac.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Tough_Love_icon.webp"
+    },
+    {
+        "id": "151",
+        "name": "The Mulligan",
+        "description": "Les larmes ont une chance de 1/6 de faire apparaître des mouches bleues alliées lorsqu'elles touchent un ennemi.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Mulligan_icon.webp"
+    },
+    {
+        "id": "152",
+        "name": "Technology 2",
+        "description": "Remplace les larmes tirées depuis l'œil droit d'Isaac par un laser perforant à tir rapide de faible puissance.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Technology_2_icon.webp"
+    },
+    {
+        "id": "153",
+        "name": "Mutant Spider",
+        "description": "Accorde un tir quadruple mais diminue les larmes.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Mutant_Spider_icon.webp"
+    },
+    {
+        "id": "154",
+        "name": "Chemical Peel",
+        "description": "Les larmes tirées de l'œil gauche ont +2 de dégâts plats.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Chemical_Peel_icon.webp"
+    },
+    {
+        "id": "155",
+        "name": "The Peeper",
+        "description": "Spawns un familier qui flotte lentement autour de la pièce selon un motif en zigzag, infligeant des dégâts aux ennemis qu'il traverse. Augmente les dégâts des larmes issues de l'œil gauche d'Isaac de 35%.",
+        "unlock": "De base",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_The_Peeper_icon.webp"
+    },
+    {
+        "id": "157",
+        "name": "Bloody Lust",
+        "description": "Augmente les dégâts d'Isaac à chaque fois qu'il prend des dégâts, jusqu'à six fois. Le bonus est réinitialisé en entrant dans un nouvel étage.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bloody_Lust_icon.webp"
+    },
+    {
+        "id": "158",
+        "name": "Crystal Ball",
+        "description": "À l'utilisation, révèle la carte (à l'exception de la Super Salle Secrète) et laisse tomber un cœur d'âme ou une carte/rune aléatoire.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Crystal_Ball_icon.webp"
+    },
+    {
+        "id": "160",
+        "name": "Crack the Sky",
+        "description": "Invoque 5 faisceaux de lumière à des emplacements aléatoires sur le sol, infligeant de gros dégâts à tous les ennemis qui les touchent.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Crack_the_Sky_icon.webp"
+    },
+    {
+        "id": "161",
+        "name": "Ankh",
+        "description": "À la mort, Isaac réapparaîtra en tant que ??? dans la salle précédente, avec 3 cœurs d'âme.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Ankh_icon.webp"
+    },
+    {
+        "id": "162",
+        "name": "Celtic Cross",
+        "description": "Accorde une chance de déclencher l'effet du Livre des Ombres lorsqu'Isaac subit des dégâts, créant un bouclier qui annule tous les types de dégâts pendant 7 secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Celtic_Cross_icon.webp"
+    },
+    {
+        "id": "163",
+        "name": "Ghost Baby",
+        "description": "Crée un familier qui suit Isaac et tire des larmes spectrales.",
+        "unlock": "De base",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Ghost_Baby_icon.webp"
+    },
+    {
+        "id": "166",
+        "name": "D20",
+        "description": "Re-roll tous les objets (pièces, bombes, coeurs, clés, ...) dans la pièce actuelle.",
+        "unlock": "Débloquez cet objet en vainquant ??? dans le coffre en tant que Isaac",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_D20_icon.webp"
+    },
+    {
+        "id": "167",
+        "name": "Ghost Baby",
+        "description": "Fait apparaître un familier qui suit Isaac et tire deux larmes à la fois en forme de V.",
+        "unlock": "De base",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Harlequin_Baby_icon.webp"
+    },
+    {
+        "id": "168",
+        "name": "Epic Fetus",
+        "description": "Les larmes d'Isaac sont remplacées par des missiles guidés.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Epic_Fetus_icon.webp"
+    },
+    {
+        "id": "169",
+        "name": "Polyphemus",
+        "description": "Isaac tire d'énormes larmes qui infligent des dégâts massifs, mais le taux de tir est considérablement réduit. Si une larme tue un ennemi, elle continue son chemin avec les dégâts restants.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Polyphemus_icon.webp"
+    },
+    {
+        "id": "170",
+        "name": "Daddy Longlegs",
+        "description": "L'ombre de Daddy Long Legs suit Isaac et écrase occasionnellement les ennemis pour un total de 40 points de dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Daddy_Longlegs_icon.webp"
+    },
+    {
+        "id": "171",
+        "name": "Spider Butt",
+        "description": "Inflige 10 dégâts à tous les ennemis dans la pièce et les ralentit pendant 4 secondes. Les ennemis tués par Spider Butt font apparaître des araignées bleues.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Spider_Butt_icon.webp"
+    },
+    {
+        "id": "172",
+        "name": "Sacrificial Dagger",
+        "description": "Crée un familier sous forme de dague orbitale, bloquant les tirs ennemis et infligeant beaucoup de dégâts aux ennemis au contact.",
+        "unlock": "De base",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Sacrificial_Dagger_icon.webp"
+    },
+    {
+        "id": "173",
+        "name": "Mitre",
+        "description": "Accorde une chance de convertir tout ramassage de Cœur Rouge en Cœurs d'Âme à la place.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Mitre_icon.webp"
+    },
+    {
+        "id": "175",
+        "name": "Dad's Key",
+        "description": "À l'activation, ouvre toutes les portes de la pièce actuelle dans presque toutes les circonstances, y compris les portes qui nécessitent une clé pour être ouvertes, les entrées aux Salles Secrètes et la porte de Méga Satan.",
+        "unlock": "Débloquez cet objet en obtenant pour la premiere fois les deux parties de la clé dans la salle des anges.",
+        "type": "Feature m soon",
+        "image": "./img/items/Collectible_Dads_Key_icon.webp"
+    },
+    {
+        "id": "176",
+        "name": "Stem Cells",
+        "description": "Accorde un conteneur complet de Cœur Rouge et +0,16 de vitesse de tir. Soigne 1 Cœur Rouge supplémentaire.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Stem_Cells_icon.webp"
+    },
+    {
+        "id": "178",
+        "name": "Holy Water",
+        "description": "Un familier en bouteille qui vole vers l'avant lorsque Isaac tire. Il se brise lorsqu'il touche un ennemi, laissant une flaque de liquide bleu qui pétrifie les ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Holy_Water_icon.webp"
+    },
+    {
+        "id": "180",
+        "name": "The Black Bean",
+        "description": "Lorsqu'il prend des dégâts, Isaac lâche cinq pets, empoisonnant et repoussant les ennemis proches tout en laissant des nuages de poison persistants.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Black_Bean_icon.webp"
+    },
+    {
+        "id": "186",
+        "name": "Blood Rights",
+        "description": "Lorsqu'il est utilisé, Isaac perd un cœur entier de santé et inflige 40 points de dégâts à tous les ennemis dans la pièce. Les utilisations répétées dans la même pièce ne coûtent qu'un demi-cœur de santé.",
+        "unlock": "Débloquez cet objet en vainquant Satan en enfer en tant que Samson.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Blood_Rights_icon.webp"
+    },
+    {
+        "id": "188",
+        "name": "Abel",
+        "description": "Fait apparaître un familier qui reproduit les mouvements d'Isaac et tire vers lui",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Abel_icon.webp"
+    },
+    {
+        "id": "190",
+        "name": "Pyro",
+        "description": "Accorde 99 bombes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Pyro_icon.webp"
+    },
+    {
+        "id": "192",
+        "name": "Telepathy for Dummies",
+        "description": "Donne des larmes chercheuses pour la pièce actuelle. Donne également +3 de portée.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/Telepathy_for_Dummies.webp"
+    },
+    {
+        "id": "191",
+        "name": "3 Dollar Bill",
+        "description": "Donne à Isaac un effet de larme aléatoire toutes les quelques secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_3_Dollar_Bill_icon.webp"
+    },
+    {
+        "id": "200",
+        "name": "Mom's Eyeshadow",
+        "description": "Les larmes ont une chance de charmer les ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Moms_Eyeshadow_icon.webp"
+    },
+    {
+        "id": "201",
+        "name": "Iron Bar",
+        "description": "+0,3 de dégâts. Ajoute une chance de tirer des larmes concussives, faisant en sorte que les ennemis se déplacent de manière aléatoire.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Iron_Bar_icon.webp"
+    },
+    {
+        "id": "202",
+        "name": "Midas' Touch",
+        "description": "Lorsqu'un ennemi est touché, il se transforme en or et devient immobile pendant quelques secondes. Toucher un ennemi doré le fait exploser en pièces.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Midas_Touch_icon.webp"
+    },
+    {
+        "id": "206",
+        "name": "Guillotine",
+        "description": "La tête d'Isaac est retirée de son corps et flotte autour de lui comme un orbital. Donne +1 de dégâts et accorde +0,5 de cadence de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Guillotine_icon.webp"
+    },
+    {
+        "id": "209",
+        "name": "Butt Bombs",
+        "description": "+5 Bombes. Les bombes obscurcissent maintenant l'écran, endommageant brièvement et désorientant tous les ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Butt_Bombs_icon.webp"
+    },
+    {
+        "id": "210",
+        "name": "Gnawed Leaf",
+        "description": "Après avoir été immobile et sans tirer pendant un court laps de temps, Isaac devient invincible jusqu'à ce qu'il se déplace ou tire.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Gnawed_Leaf_icon.webp"
+    },
+    {
+        "id": "211",
+        "name": "Spiderbaby",
+        "description": "Fait apparaître de 3 à 5 araignées bleues lorsque Isaac subit des dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Spiderbaby_icon.webp"
+    },
+    {
+        "id": "213",
+        "name": "Lost Contact",
+        "description": "Les larmes d'Isaac peuvent toucher et détruire les projectiles ennemis. -0,15 de vitesse de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Lost_Contact_icon.webp"
+    },
+    {
+        "id": "214",
+        "name": "Anemic",
+        "description": "Lorsqu'Isaac est touché, il laisse une traînée de sang qui inflige des dégâts aux ennemis. +1,5 de portée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Anemic_icon.webp"
+    },
+    {
+        "id": "217",
+        "name": "Mom's Wig",
+        "description": "Ajoute une chance de faire apparaître des Araignées bleues en tirant des larmes. Restaure 1 Cœur rouge.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Moms_Wig_icon.webp"
+    },
+    {
+        "id": "220",
+        "name": "Sad Bombs",
+        "description": "+5 Bombes. Lorsqu'elles explosent, les bombes tirent 10 larmes autour d'elles, affectées par les modificateurs de larmes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Sad_Bombs_icon.webp"
+    },
+    {
+        "id": "221",
+        "name": "Rubber Cement",
+        "description": "Les larmes rebondissent sur les murs, les ennemis et les objets environnementaux.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Rubber_Cement_icon.webp"
+    },
+    {
+        "id": "222",
+        "name": "Anti-Gravity",
+        "description": "Les larmes restent en position jusqu'à ce que le tir cesse, après quoi elles s'envolent dans la direction dans laquelle elles ont été tirées. +1 de vitesse de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Anti-Gravity_icon.webp"
+    },
+    {
+        "id": "223",
+        "name": "Pyromaniac",
+        "description": "+5 bombes. Accorde l'immunité aux dégâts d'explosion et fait en sorte que les explosions soignent Isaac. Accorde également l'immunité au feu.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Pyromaniac_icon.webp"
+    },
+    {
+        "id": "224",
+        "name": "Cricket's Body",
+        "description": "Lorsque les larmes touchent un objet ou épuisent leur portée, elles génèrent 4 larmes plus petites, dont la portée et les dégâts évoluent avec ceux d'Isaac. Accorde +0,5 de cadence de tir et réduit la portée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Crickets_Body_icon.webp"
+    },
+    {
+        "id": "225",
+        "name": "Gimpy",
+        "description": "Augmente les chances de faire apparaître un Cœur d'Âme lors de la prise de dégâts. Les ennemis ont une chance de laisser tomber un Demi-Cœur Rouge après avoir été tués.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Gimpy_icon.webp"
+    },
+    {
+        "id": "227",
+        "name": "Piggy Bank",
+        "description": "Donne 3 Pennies à la collecte. Chaque fois qu'Isaac est blessé, il laissera tomber une ou deux pièces supplémentaires.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Piggy_Bank_icon.webp"
+    },
+    {
+        "id": "228",
+        "name": "Mom's Perfume",
+        "description": "Ajoute une chance de tirer des larmes de peur. +0,5 de taux de tir.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Moms_Perfume_icon.webp"
+    },
+    {
+        "id": "229",
+        "name": "Monstro's Lung",
+        "description": "Remplace les larmes normales par un tir chargé qui tire 14 larmes de la même manière que Monstro.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Monstros_Lung_icon.webp"
+    },
+    {
+        "id": "231",
+        "name": "Ball of Tar",
+        "description": "Ajoute une chance de tirer des larmes ralentissantes. Isaac laisse derrière lui une traînée de ralentissement lorsqu'il se déplace, ralentissant la vitesse des ennemis.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Ball_of_Tar_icon.webp"
+    },
+    {
+        "id": "233",
+        "name": "Tiny Planet",
+        "description": "Augmente considérablement la portée et accorde des larmes spectrales. Les larmes orbitent autour d'Isaac à une distance fixe jusqu'à ce qu'elles touchent le sol.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Tiny_Planet_icon.webp"
+    },
+    {
+        "id": "234",
+        "name": "Infestation 2",
+        "description": "Fait apparaître des Araignées Bleues alliées à partir des ennemis tués.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Infestation_2_icon.webp"
+    },
+    {
+        "id": "236",
+        "name": "E. Coli",
+        "description": "Les ennemis qui touchent Isaac se transforment en cacas.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_E._Coli_icon.webp"
+    },
+    {
+        "id": "237",
+        "name": "Death's Touch",
+        "description": "+1.5 de dégâts, -0.3 de larmes. Les larmes sont remplacées par de grandes faux perforantes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Deaths_Touch_icon.webp"
+    },
+    {
+        "id": "240",
+        "name": "Experimental Treatment",
+        "description": "Augmente quatre statistiques aléatoires et diminue les deux autres.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Aiguille",
+        "image": "./img/items/Collectible_Experimental_Treatment_icon.webp"
+    },
+    {
+        "id": "242",
+        "name": "Infamy",
+        "description": "Donne à Isaac 50% de chances de bloquer les projectiles venant de n'importe quelle direction.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Infamy_icon.webp"
+    },
+    {
+        "id": "244",
+        "name": "Tech.5",
+        "description": "Isaac tire occasionnellement un laser perçant d'une portée illimitée en plus de ses larmes normales. Le laser peut glitcher, imitant les effets de certains objets et breloques.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Tech.5_icon.webp"
+    },
+    {
+        "id": "245",
+        "name": "20/20",
+        "description": "Isaac tire deux larmes à la fois, une de chaque œil. Multiplicateur de dégâts de 0,8x.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_20_20_icon.webp"
+    },
+    {
+        "id": "256",
+        "name": "Hot Bombs",
+        "description": "+5 bombes. Les bombes d'Isaac laissent derrière elles du feu qui inflige des dégâts aux ennemis au contact.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Hot_Bombs_icon.webp"
+    },
+    {
+        "id": "257",
+        "name": "Fire Mind",
+        "description": "Accorde des larmes enflammées qui infligent des dégâts brûlants dans le temps. Les larmes ont une chance d'exploser au contact avec un ennemi, ce qui crée un feu à l'emplacement de l'explosion.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Fire_Mind_icon.webp"
+    },
+    {
+        "id": "261",
+        "name": "Proptosis",
+        "description": "Les larmes commencent massives avec des dégâts élevés, puis rétrécissent et deviennent plus faibles sur une courte distance.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Proptosis_icon.webp"
+    },
+    {
+        "id": "264",
+        "name": "Smart Fly",
+        "description": "Fait apparaître un familier orbital qui bloque les tirs ennemis. Lorsqu'il subit des dégâts, le familier poursuivra les ennemis pour le reste de la salle, infligeant 22,5 points de dégâts par seconde.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Smart_Fly_icon.webp"
+    },
+    {
+        "id": "265",
+        "name": "Dry Baby",
+        "description": "Fait apparaître un familier qui suit Isaac et bloque les projectiles ennemis. Lorsqu'il bloque un tir, il a une chance de déclencher l'effet du Necronomicon.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Dry_Baby_icon.webp"
+    },
+    {
+        "id": "266",
+        "name": "Juicy Sack",
+        "description": "Crée un familier qui suit Isaac et laisse une traînée de substance gluante, ralentissant les ennemis, tout en faisant apparaître 1 à 2 araignées bleues après chaque salle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Juicy_Sack_icon.webp"
+    },
+    {
+        "id": "267",
+        "name": "Robo-Baby 2.0",
+        "description": "Crée un familier qui tire des lasers sur tout ennemi dans sa ligne de mire et se déplace en fonction de la direction dans laquelle Isaac tire ses larmes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Robo-Baby_2.0_icon.webp"
+    },
+    {
+        "id": "268",
+        "name": "Rotten Baby",
+        "description": "Crée un familier qui invoque une Mouche Bleue lorsque Isaac tire. Il ne peut avoir qu'une seule mouche à la fois.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Rotten_Baby_icon.webp"
+    },
+    {
+        "id": "269",
+        "name": "Headless Baby",
+        "description": "Crée un familier qui suit Isaac, laissant une traînée de sang sur le sol.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Headless_Baby_icon.webp"
+    },
+    {
+        "id": "270",
+        "name": "Leech",
+        "description": "Crée un familier sangsue qui poursuit les ennemis, infligeant environ 3 points de dégâts par seconde. Guérit un demi-cœur rouge à chaque fois que la sangsue tue un ennemi.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Leech_icon.webp"
+    },
+    {
+        "id": "271",
+        "name": "Mystery Sack",
+        "description": "Fait apparaître un familier qui laisse tomber un cœur, une pièce, une bombe ou une clé toutes les 5-6 salles.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Mystery_Sack_icon.webp"
+    },
+    {
+        "id": "272",
+        "name": "BBF",
+        "description": "Crée un familier qui vole autour de la pièce selon un motif en zigzag et explose au contact d'un ennemi. Il réapparaît après dix secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_BBF_icon.webp"
+    },
+    {
+        "id": "273",
+        "name": "Bob's Brain",
+        "description": "Fait apparaître un familier qui fonce vers l'avant en tirant des larmes et explose au contact avec un ennemi, les endommageant et les empoisonnant. Le familier réapparaît après quelques secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Bobs_Brain_icon.webp"
+    },
+    {
+        "id": "274",
+        "name": "Best Bud",
+        "description": "Lorsqu'il est touché, crée une mouche d'attaque qui orbite rapidement autour de vous, similaire à Forever Alone, pour la salle actuelle, infligeant des dégâts élevés.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Mouche",
+        "image": "./img/items/Collectible_Best_Bud_icon.webp"
+    },
+    {
+        "id": "275",
+        "name": "Lil Brimstone",
+        "description": "Accorde un familier qui charge un laser Brimstone étroit pendant que Isaac tire.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Brimstone_icon.webp"
+    },
+    {
+        "id": "276",
+        "name": "Isaac's Heart",
+        "description": "Isaac lui-même est désormais immunisé contre tous les dégâts, et un familier en forme de cœur le suit. Si le cœur est blessé, Isaac est blessé. Le cœur se charge au fur et à mesure qu'Isaac tire, tirant 8 projectiles de sang, repoussant les ennemis et laissant une traînée de substance gluante lorsqu'il est relâché.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Isaacs_Heart_icon.webp"
+    },
+    {
+        "id": "277",
+        "name": "Lil Haunt",
+        "description": "Crée un familier qui poursuit les ennemis, infligeant 4 points de dégâts par seconde et leur infligeant la peur.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Haunt_icon.webp"
+    },
+    {
+        "id": "278",
+        "name": "Dark Bum",
+        "description": "Crée un familier qui suit Isaac et collecte les Cœurs Rouges. Pour chaque 1½ Cœurs Rouges collectés, Dark Bum donnera une récompense.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Dark_Bum_icon.webp"
+    },
+    {
+        "id": "279",
+        "name": "Big Fan",
+        "description": "Crée un familier orbital de grande taille qui bloque les tirs ennemis et inflige 30 points de dégâts par seconde aux ennemis.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Big_Fan_icon.webp"
+    },
+    {
+        "id": "280",
+        "name": "Sissy Longlegs",
+        "description": "Crée un familier qui erre aléatoirement, faisant parfois apparaître des araignées bleues. Il charme brièvement les ennemis au contact.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Sissy_Longlegs_icon.webp"
+    },
+    {
+        "id": "281",
+        "name": "Punching Bag (Théodule)",
+        "description": "Crée un familier Mulligan qui erre aléatoirement. Les ennemis attaqueront le Mulligan s'il est plus proche d'eux.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Punching_Bag_icon.webp"
+    },
+    {
+        "id": "282",
+        "name": "How to Jump",
+        "description": "Lors de son utilisation, Isaac saute dans la direction dans laquelle il se déplace actuellement, permettant de voyager au-dessus des obstacles et des ennemis.",
+        "unlock": "De base",
+        "type": "Activable & Livre",
+        "image": "./img/items/How_to_Jump.webp"
+    },
+    {
+        "id": "283",
+        "name": "D100",
+        "description": "Combine les effets de D1, D4, The D6, D7, D8, D10, D12 et D20.",
+        "unlock": "Débloquez cet objet en vainquant le boss rush en tant que The Lost.",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_D100_icon.webp"
+    },
+    {
+        "id": "284",
+        "name": "D4",
+        "description": "Re-roll tous les objets passifs d'Isaac.",
+        "unlock": "Débloquez cet objet en explosant 30 machines a sous.",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_D4_icon.webp"
+    },
+    {
+        "id": "285",
+        "name": "D10",
+        "description": "Remplace tous les monstres dans la pièce par des monstres plus faibles.",
+        "unlock": "De base",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_D10_icon.webp"
+    },
+    {
+        "id": "286",
+        "name": "Blank Card",
+        "description": "Copie l'effet de la carte actuellement détenue par Isaac. Le temps de charge est basé sur la puissance de la carte.",
+        "unlock": "Débloquez cet objet en battant Isaac dans la cathédrale avec Eden.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Blank_Card_icon.webp"
+    },
+    {
+        "id": "287",
+        "name": "Book of Secrets",
+        "description": "Accorde l'effet de Carte au trésor, de la Boussole ou de la Carte bleue pour la durée de l'étage actuel. Si tous les effets sont actifs, la Vision X est fournie pour l'étage à la place. Met en évidence les rochers teintés et les rochers avec un passage secret dans la pièce.",
+        "unlock": "Débloquez cet objet en battant Satan avec Eden.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Book_of_Secrets.webp"
+    },
+    {
+        "id": "288",
+        "name": "Box of Spiders",
+        "description": "Fait apparaître 4 à 8 araignées bleues qui infligent 2 fois les dégâts d'Isaac aux ennemis.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Box_of_Spiders_icon.webp"
+    },
+    {
+        "id": "291",
+        "name": "Flush!",
+        "description": "Transforme tous les monstres non-boss de la pièce en caca. Tue instantanément les boss de type caca.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Flush_icon.webp"
+    },
+    {
+        "id": "292",
+        "name": "Satanic Bible",
+        "description": "Elle donne un cœur noir et remplace l'objet de la salle du boss sur l'étage actuel par une offre du Diable.",
+        "unlock": "Débloquez cet objet en battant Isaac avec Azazel.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Collectible_Satanic_Bible_icon.webp"
+    },
+    {
+        "id": "294",
+        "name": "Butter Bean",
+        "description": "À l'utilisation, Isaac pète et repousse les ennemis et les projectiles à proximité. Les ennemis poussés contre les murs ou les obstacles subissent 12 dégâts.",
+        "unlock": "Débloquez cet objet en cassant 100 cacas.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Butter_Bean_icon.webp"
+    },
+    {
+        "id": "295",
+        "name": "Magic Fingers",
+        "description": "Utilise 1 Penny pour infliger des dégâts à tous les ennemis dans la pièce.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Magic_Fingers_icon.webp"
+    },
+    {
+        "id": "298",
+        "name": "Unicorn Stump",
+        "description": "Confère une invulnérabilité et une vitesse accrue pendant six secondes, mais supprime la capacité de tirer des larmes.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Unicorn_Stump_icon.webp"
+    },
+    {
+        "id": "299",
+        "name": "Taurus",
+        "description": "-0,3 Vitesse. Isaac gagne en vitesse lorsqu'il se trouve dans une salle avec des ennemis. À vitesse maximale, il devient invincible et tue les ennemis au contact pendant 5 secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Taurus_icon.webp"
+    },
+    {
+        "id": "300",
+        "name": "Aries",
+        "description": "+0,25 Vitesse. En heurtant des ennemis à grande vitesse, Isaac leur inflige des dégâts. Empêche Isaac de subir des dégâts au contact lorsqu'il se déplace à grande vitesse.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Aries_icon.webp"
+    },
+    {
+        "id": "301",
+        "name": "Cancer",
+        "description": "Ajoute 3 cœurs d'âme. Si un dégats devrait enlever un coeur a isaac, il n'en perd que un demi pour la salle actuelle après avoir subi des dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Cancer_icon.webp"
+    },
+    {
+        "id": "302",
+        "name": "Leo",
+        "description": "Isaac peut détruire les rochers en marchant dessus.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Leo_icon.webp"
+    },
+    {
+        "id": "303",
+        "name": "Virgo",
+        "description": "Ajoute une chance de donner un bouclier qui annule tous les dégâts entrants pendant 10 secondes après avoir subi des dégâts. Convertit également les mauvaises pilules en bonnes pilules.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Virgo_icon.webp"
+    },
+    {
+        "id": "304",
+        "name": "Libra",
+        "description": "Donne 6 pièces, 6 bombes et 6 clés et équilibre tous les statistiques.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Libra_icon.webp"
+    },
+    {
+        "id": "305",
+        "name": "Scorpio",
+        "description": "Accorde des larmes empoisonnées, qui infligent des dégâts sur la durée lorsqu'elles sont infligées.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Scorpio_icon.webp"
+    },
+    {
+        "id": "306",
+        "name": "Sagittarius",
+        "description": "Augmente la vitesse de +0,2 et accorde des larmes perforantes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Sagittarius_icon.webp"
+    },
+    {
+        "id": "307",
+        "name": "Capricorn",
+        "description": "Ajoute 1 conteneur de cœur rouge, donne +0,5 de dégâts, +0,1 de vitesse, +0,75 de portée et +0,5 de cadence de tir, et donne 1 bombe, une pièce et une clé.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Capricorn_icon.webp"
+    },
+    {
+        "id": "308",
+        "name": "Aquarius",
+        "description": "Une traînée de substance gluante bleue est laissée derrière Isaac, infligeant des dégâts aux ennemis. La substance gluante hérite de la plupart des effets des larmes d'Isaac, comme le suivi, etc.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Aquarius_icon.webp"
+    },
+    {
+        "id": "309",
+        "name": "Pisces",
+        "description": "+0,5 de cadence de tir, ajoute des tirs repoussants et augmente la taille des larmes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Pisces_icon.webp"
+    },
+    {
+        "id": "310",
+        "name": "Eve's Mascara",
+        "description": "Double les dégâts, le multiplicateur de larmes est de 0,66 fois, et réduit considérablement la vitesse des tirs.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Eves_Mascara_icon.webp"
+    },
+    {
+        "id": "311",
+        "name": "Judas' Shadow",
+        "description": "À la mort, réapparaît Isaac en tant que Dark Judas avec deux Cœurs Noirs dans la salle précédente.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Judas_Shadow_icon.webp"
+    },
+    {
+        "id": "312",
+        "name": "Maggy's Bow",
+        "description": "Donne un conteneur de cœur rouge et double la guérison fournie par les cœurs rouges. Guérit également 1 cœur rouge lorsqu'il est obtenu.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Maggys_Bow_icon.webp"
+    },
+    {
+        "id": "313",
+        "name": "Holy Mantle",
+        "description": "Accorde un bouclier qui annule la première instance de dégâts subis, une fois par salle. Ne s'applique pas ou ne nie pas les dégâts auto-infligés (machines de don de sang, etc.).",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Holy_Mantle_icon.webp"
+    },
+    {
+        "id": "314",
+        "name": "Thunder Thighs",
+        "description": "Détruit les rochers au contact avec Isaac. Ajoute un conteneur de cœur rouge et diminue la vitesse.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Thunder_Thighs_icon.webp"
+    },
+    {
+        "id": "315",
+        "name": "Strange Attractor",
+        "description": "Les objets ramassables, les trinkets et les monstres sont attirés magnétiquement par les larmes d'Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Strange_Attractor_icon.webp"
+    },
+    {
+        "id": "316",
+        "name": "Cursed Eye",
+        "description": "Accorde des larmes chargées pouvant être tirées en rafale serrée. Se faire toucher en chargeant téléportera Isaac dans une autre pièce.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Cursed_Eye_icon.webp"
+    },
+    {
+        "id": "317",
+        "name": "Mysterious Liquid",
+        "description": "Les larmes laissent une petite traînée de substance gluante qui dure peu de temps à l'impact ou lorsque leur portée est épuisée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Mysterious_Liquid_icon.webp"
+    },
+    {
+        "id": "318",
+        "name": "Gemini",
+        "description": "Crée un familier conjoigné qui poursuit les ennemis proches d'Isaac, infligeant environ 8 points de dégâts par seconde.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Gemini_icon.webp"
+    }, 
+    {
+        "id": "319",
+        "name": "Cain's Other Eye",
+        "description": "Crée un familier qui suit Isaac et tire des larmes dans des directions cardinales aléatoires, qui copient les larmes et les effets de larmes d'Isaac et qui augmentent avec les dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Cains_Other_Eye_icon.webp"
+    },
+    {
+        "id": "320",
+        "name": "???'s Only Friend",
+        "description": "Crée un familier contrôlable qui inflige 37,5 points de dégâts par seconde au contact. Il peut être déplacé en utilisant les touches directionnelles de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Blue_Babys_Only_Friend_icon.webp"
+    }, 
+    {
+        "id": "321",
+        "name": "Samson's Chains",
+        "description": "Attache une boule et une chaîne à Isaac qui le suit et endommage les ennemis, bloque les tirs et détruit la plupart des obstacles.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Samsons_Chains_icon.webp"
+    },
+    {
+        "id": "322",
+        "name": "Mongo Baby",
+        "description": "Crée un familier qui suit Isaac et tire des larmes dans la même direction que lui.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Mongo_Baby_icon.webp"
+    },
+    {
+        "id": "323",
+        "name": "Isaac's Tears",
+        "description": "Tire 8 larmes autour d'Isaac, qui conservent les dégâts, la portée, la vitesse de tir et les effets spéciaux des larmes d'Isaac. Chaque larme tirée par Isaac augmente la charge de l'objet de un. Les larmes de cet objet ont un bonus de dégâts plat de +5.",
+        "unlock": "Débloquez cet objet en battant Isaac dans la cathédrale avec Isaac.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Isaacs_Tears_icon.webp"
+    },
+    {
+        "id": "324",
+        "name": "Undefined",
+        "description": "Téléporte Isaac dans la salle secrète, la salle super secrète, la salle au trésor ou la glitch room.",
+        "unlock": "Débloquez cet objet en battant le boss rush avec Eden.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Undefined_icon.webp"
+    },
+    {
+        "id": "325",
+        "name": "Scissors",
+        "description": "Transforme la tête d'Isaac en un familier stationnaire pour la pièce actuelle qui tire automatiquement des larmes. Le corps d'Isaac tire également un jet contrôlable de projectiles de sang pour la pièce.",
+        "unlock": "Débloquez cet objet en mourant 100 fois.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Scissors_icon.webp"
+    },
+    {
+        "id": "329",
+        "name": "The Ludovico Technique",
+        "description": "Au lieu de tirer des larmes, Isaac contrôle une larme flottante qui plane au-dessus des obstacles. Cette larme inflige des dégâts constants lorsqu'elle est maintenue en place au-dessus d'un ennemi.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Ludovico_Technique_icon.webp"
+    },
+    {
+        "id": "330",
+        "name": "Soy Milk",
+        "description": "Les larmes sont plus petites et infligent beaucoup moins de dégâts, mais elles sont tirées très rapidement et en succession.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Soy_Milk_icon.webp"
+    },
+    {
+        "id": "332",
+        "name": "Lazarus' Rags",
+        "description": "À la mort, ressuscite en tant que Lazare ressuscité dans la salle actuelle avec un conteneur de Cœur Rouge en moins, Anémique et +0,5 de dégâts. Se transforme en Lazare en atteignant l'étage suivant.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Lazarus_Rags_icon.webp"
+    },
+    {
+        "id": "333",
+        "name": "The Mind",
+        "description": "Révèle la carte entière, y compris toutes les salles spéciales et les Salles Secrètes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Mind_icon.webp"
+    },
+    {
+        "id": "334",
+        "name": "The Body",
+        "description": "Ajoute 3 Conteneurs de Cœurs Rouges.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Body_icon.webp"
+    },
+    {
+        "id": "335",
+        "name": "The Soul",
+        "description": "Accorde deux Cœurs d'Âme. Isaac obtient une aura pulsante qui repousse les ennemis et les projectiles.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Soul_icon.webp"
+    },
+    {
+        "id": "336",
+        "name": "Dead Onion",
+        "description": "Accorde des larmes perçantes et spectrales. Augmente la taille des larmes (sans augmenter les dégâts) tout en réduisant considérablement la portée et la vitesse de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Dead_Onion_icon.webp"
+    },
+    {
+        "id": "350",
+        "name": "Toxic Shock",
+        "description": "En entrant dans une salle, empoisonne tous les ennemis, infligeant deux fois les dégâts des larmes d'Isaac. Tuer les ennemis laisse une petite traînée de substance gluante verte qui dure peu de temps sur le sol.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Toxic_Shock_icon.webp"
+    },
+    {
+        "id": "351",
+        "name": "Mega Bean",
+        "description": "Pétrifie tous les ennemis dans la pièce actuelle pendant environ 1,5 seconde, empoisonne tous les ennemis près d'Isaac et envoie une onde de roche à travers la pièce dans la direction où Isaac fait face.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Mega_Bean_icon.webp"
+    },
+    {
+        "id": "352",
+        "name": "Glass Cannon",
+        "description": "Tire une larme spectral perçante à haut dégâts. Si Isaac prend des dégâts en tenant cet objet, il subit des dégâts supplémentaires et le Cannon se casse. ",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Glass_Cannon_icon.webp"
+    },
+    {
+        "id": "353",
+        "name": "Bomber Boy",
+        "description": "+5 Bombes. Les bombes d'Isaac exploseront désormais selon un large motif en forme de croix (environ 5 explosions de bombes de large). Cela affecte également les Troll Bombs invoquées par le joueur.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Bomber_Boy_icon.webp"
+    },
+    {
+        "id": "358",
+        "name": "The Wiz",
+        "description": "Accorde des larmes spectrales. Les larmes sont tirées simultanément des deux yeux en diagonale",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_The_Wiz_icon.webp"
+    },
+    {
+        "id": "359",
+        "name": "8 Inch Nails",
+        "description": "+1,5 de dégâts. Remplace les larmes d'Isaac par des clous, qui ont un recul accru.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_8_Inch_Nails_icon.webp"
+    },
+    {
+        "id": "361",
+        "name": "Fate's Reward",
+        "description": "Un familier à tête bleue qui suivra Isaac et tirera des larmes en copiant ses effets de larmes et ses dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Fates_Reward_icon.webp"
+    },
+    {
+        "id": "362",
+        "name": "Lil Chest",
+        "description": "Crée un familier coffre qui fait apparaître un objet ramassable au hasard (25% de chance) ou une breloque (10% de chance) après avoir nettoyé une salle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Chest_icon.webp"
+    },
+    {
+        "id": "364",
+        "name": "Friend Zone",
+        "description": "Crée une mouche d'attaque blanche qui orbite quelque part entre Distant Admiration et Forever Alone (deux autres mouches), infligeant 45 points de dégâts par seconde.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Mouche",
+        "image": "./img/items/Collectible_Friend_Zone_icon.webp"
+    },
+    {
+        "id": "365",
+        "name": "Lost Fly",
+        "description": "Crée un familier mouche qui se déplace en ligne droite et tourne autour du premier mur ou obstacle qu'il touche, infligeant 56 points de dégâts par seconde et forçant les ennemis proches à l'attaquer.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lost_Fly_icon.webp"
+    },
+    {
+        "id": "366",
+        "name": "Scatter Bombs",
+        "description": "+5 Bombes. Les bombes d'Isaac explosent en 2-4 petites bombes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Scatter_Bombs_icon.webp"
+    },
+    {
+        "id": "367",
+        "name": "Sticky Bombs",
+        "description": "+5 Bombes. Les bombes collent aux ennemis et font apparaître 2-4 araignées bleues si elles tuent un ennemi. Elles laissent également une traînée de substance gluante blanche qui ralentit et qui dure longtemps.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Sticky_Bombs_icon.webp"
+    },
+    {
+        "id": "368",
+        "name": "Epiphora",
+        "description": "Tirer dans une direction augmente la cadence de tir d'Isaac jusqu'à ce que le maximum soit atteint. Dès qu'Isaac change de direction ou cesse de tirer, la cadence de tir est réinitialisée à sa valeur normale.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Epiphora_icon.webp"
+    },
+    {
+        "id": "369",
+        "name": "Continuum",
+        "description": "Accorde des larmes spectrales et augmente la portée. Les larmes traversent les murs et apparaissent du côté opposé de la salle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Continuum_icon.webp"
+    },
+    {
+        "id": "371",
+        "name": "Curse of the Tower",
+        "description": "En prenant des dégâts, fait apparaître six bombes de troll autour de la pièce, similaire à l'effet de XVI - La Tour.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Curse_of_the_Tower_icon.webp"
+    },
+    {
+        "id": "373",
+        "name": "Dead Eye",
+        "description": "Les dégâts d'Isaac augmentent à chaque fois qu'un ennemi est touché. Les dégâts sont réinitialisés en cas de raté d'un tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Dead_Eye_icon.webp"
+    },
+    {
+        "id": "374",
+        "name": "Holy Light",
+        "description": "Ajoute une chance de tirer des larmes sacrées, qui créent un faisceau de lumière endommageant dans la zone si elles touchent un ennemi.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Holy_Light_icon.webp"
+    },
+    {
+        "id": "375",
+        "name": "Host Hat",
+        "description": "Un familier hôte qui se pose sur la tête d'Isaac et a une chance aléatoire de bloquer les tirs ennemis et de riposter avec 3 larmes. Accorde une immunité aux explosions.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Host_Hat_icon.webp"
+    },
+    {
+        "id": "377",
+        "name": "Bursting Sack",
+        "description": "Les ennemis araignées ne ciblent plus Isaac et ne lui infligent plus de dégâts au contact.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bursting_Sack_icon.webp"
+    },
+    {
+        "id": "378",
+        "name": "Number Two",
+        "description": "Tirer continuellement des larmes pendant trois secondes fait tomber une bombe-caca à derrière Isaac, qui endommage et désoriente tous les ennemis dans la salle lorsqu'elle explose.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Number_Two_icon.webp"
+    },
+    {
+        "id": "379",
+        "name": "Pupula Duplex",
+        "description": "Accorde à Isaac des larmes spectrales et donne à ses larmes une forme d'arc large, augmentant leur taille.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Pupula_Duplex_icon.webp"
+    },
+    {
+        "id": "381",
+        "name": "Eden's Blessing",
+        "description": "+0,7 d'augmentation de cadence de tir. Accorde un objet aléatoire au début de la prochaine partie.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Edens_Blessing_icon.webp"
+    },
+    {
+        "id": "382",
+        "name": "Friendly Ball",
+        "description": "Lancer la balle sur un monstre le tue instantanément et le capture. L'ennemi capturé peut être relâché plus tard et sera amical, combattant pour Isaac et persistant entre les pièces.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Friendly_Ball_icon.webp"
+    },
+    {
+        "id": "384",
+        "name": "Lil Gurdy",
+        "description": "Un familier Gurdy Jr. qui se charge pendant qu'Isaac tire, rebondissant dans la salle lorsqu'il est relâché et infligeant des dégâts au contact en fonction de sa vitesse.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Gurdy_icon.webp"
+    },
+    {
+        "id": "385",
+        "name": "Bumbo",
+        "description": "Crée un familier mendiant qui ramasse toutes les pièces à proximité, évoluant après avoir collecté plusieurs pièces. Au niveau 2, Bumbo obtient un corps. Au niveau 3, il commence à tirer des larmes. Au niveau 4, Bumbo suit les ennemis et inflige des dégâts au contact.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Bumbo_icon.webp"
+    },
+    {
+        "id": "386",
+        "name": "D12",
+        "description": "Re-roll la plupart des types d'obstacles dans la pièce actuelle en d'autres obstacles aléatoires.",
+        "unlock": "Débloquez cet objet en vainquant Hush en tant que Cain.",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_D12_icon.webp"
+    },
+    {
+        "id": "388",
+        "name": "Key Bum",
+        "description": "Crée un familier qui suit Isaac et collecte des clés pour lui-même, donnant en retour des coffres aléatoires.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Key_Bum_icon.webp"
+    },
+    {
+        "id": "389",
+        "name": "Rune Bag",
+        "description": "Fait apparaître un familier qui laisse tomber une rune aléatoire après avoir nettoyé suffisamment de salles.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Rune_Bag_icon.webp"
+    },
+    {
+        "id": "390",
+        "name": "Seraphim",
+        "description": "Fait apparaître un familier d'ange qui suit Isaac et tire des larmes homing qui infligent 10 dégâts et ont 75% de vitesse de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Seraphim_icon.webp"
+    },
+    {
+        "id": "391",
+        "name": "Betrayal",
+        "description": "Enchante tous les ennemis dans la salle lorsque Isaac subit des dégâts. Les ennemis peuvent se blesser entre eux. Si un ennemi est blessé par un autre ennemi, il attaquera cet ennemi au lieu d'Isaac.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Betrayal_icon.webp"
+    },
+    {
+        "id": "392",
+        "name": "Zodiac",
+        "description": "Accorde à Isaac un effet d'objet zodiacal aléatoire qui change à chaque étage.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Zodiac_icon.webp"
+    },
+    {
+        "id": "393",
+        "name": "Serpent's Kiss",
+        "description": "Les larmes ont une chance d'appliquer un effet de poison aux ennemis. Isaac empoisonne les ennemis au contact. Les ennemis empoisonnés ont une chance de laisser tomber un cœur noir lorsqu'ils sont tués.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Serpents_Kiss_icon.webp"
+    },
+    {
+        "id": "394",
+        "name": "Marked",
+        "description": "Isaac tirera automatiquement des larmes dirigées vers une cible rouge au sol. La cible peut être déplacée avec les contrôles des larmes. +0,7 de cadence de tir, augmente la portée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Marked_icon.webp"
+    },
+    {
+        "id": "395",
+        "name": "Tech X",
+        "description": "Les larmes sont remplacées par des anneaux laser qui traversent les ennemis et infligent des dégâts aux ennemis à l'intérieur. Peut être chargé pour augmenter l'efficacité de l'anneau.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Tech_X_icon.webp"
+    },
+    {
+        "id": "397",
+        "name": "Tractor Beam",
+        "description": "Isaac émet un rayon depuis son visage auquel ses larmes sont liées. Augmente la cadence de tir, la portée et la vitesse de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Tractor_Beam_icon.webp"
+    },
+    {
+        "id": "398",
+        "name": "God's Flesh",
+        "description": "Les larmes ont une chance de rétrécir les ennemis, les faisant fuir Isaac. Les ennemis rétrécis peuvent être écrasés et tués en marchant dessus.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Champignon",
+        "image": "./img/items/Collectible_Gods_Flesh_icon.webp"
+    },
+    {
+        "id": "401",
+        "name": "Explosivo",
+        "description": "Les larmes d'Isaac ont une chance de coller aux ennemis et d'exploser.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Explosivo_icon.webp"
+    },
+    {
+        "id": "404",
+        "name": "Farting Baby",
+        "description": "Crée un familier qui suit Isaac et bloque les tirs ennemis. Si un tir touche le Bébé Péteur, il a une chance de péter, ce qui charme, empoisonne ou repousse les ennemis à proximité.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Farting_Baby_icon.webp"
+    },
+    {
+        "id": "405",
+        "name": "GB Bug",
+        "description": "Crée un familier qui suit Isaac. En appuyant deux fois sur le bouton de tir, il le lance vers l'avant, ce qui fait qu'il reroll le premier monstre ou objet ramassé qu'il touche.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_GB_Bug_icon.webp"
+    },
+    {
+        "id": "406",
+        "name": "D8",
+        "description": "Re-roll les dégâts, les larmes, la portée et la vitesse d'Isaac.",
+        "unlock": "Débloquez en accomplissant le challenge #28",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_D8_icon.webp"
+    },
+    {
+        "id": "407",
+        "name": "Purity",
+        "description": "Améliore l'une des statistiques d'Isaac en fonction de la couleur de l'aura autour de lui. L'aura disparaît lorsqu'il subit des dégâts et réapparaît avec une couleur aléatoire en entrant dans une nouvelle salle. Le rouge augmente les dégâts, le bleu augmente les larmes, le jaune augmente la vitesse et l'orange augmente la portée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Purity_icon.webp"
+    },
+    {
+        "id": "410",
+        "name": "Evil Eye",
+        "description": "Accorde une chance de tirer un œil en mouvement lent qui tire des larmes dans la même direction qu'Isaac. L'œil est détruit lorsqu'il touche un ennemi ou un obstacle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Evil_Eye_icon.webp"
+    },
+    {
+        "id": "411",
+        "name": "Lusty Blood",
+        "description": "Les dégâts d'Isaac augmentent pour la salle actuelle chaque fois qu'il tue un ennemi.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Lusty_Blood_icon.webp"
+    },
+    {
+        "id": "418",
+        "name": "Fruit Cake",
+        "description": "Les larmes d'Isaac obtiennent un effet aléatoire qui change à chaque tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Fruit_Cake_icon.webp"
+    },
+    {
+        "id": "419",
+        "name": "Teleport 2.0",
+        "description": "Téléporte Isaac dans une pièce qui n'a pas encore été explorée. Les pièces normales sont prioritaires par rapport aux pièces spéciales, et les pièces spéciales courantes ont la priorité sur les plus rares.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Teleport_2.0_icon.webp"
+    },
+    {
+        "id": "421",
+        "name": "Kidney Bean",
+        "description": "Isaac pète, charmant tous les ennemis à proximité.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Kidney_Bean_icon.webp"
+    },
+    {
+        "id": "422",
+        "name": "Glowing Hourglass",
+        "description": "Remonte le temps, ramenant Isaac dans la pièce précédente et annulant tout ce qui s'est passé dans la pièce actuelle. Ne peut être utilisé que trois fois par étage, après quoi il fonctionne comme The Hourglass jusqu'au prochain étage.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Glowing_Hourglass_icon.webp"
+    },
+    {
+        "id": "426",
+        "name": "Obsessed Fan",
+        "description": "Crée un familier qui suit les mouvements d'Isaac avec un léger délai et inflige 30 points de dégâts par seconde au contact avec les ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Obsessed_Fan_icon.webp"
+    },
+    {
+        "id": "427",
+        "name": "Mine Crafter",
+        "description": "Place un baril de TNT mobile qui peut être poussé et utilisé pour détruire des rochers ou endommager des ennemis. S'il est utilisé à nouveau dans la même pièce alors que le précédent baril de TNT est encore intact, déclenche la TNT à distance.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Mine_Crafter_icon.webp"
+    },
+    {
+        "id": "430",
+        "name": "Papa Fly",
+        "description": "Crée un familier qui suit les mouvements d'Isaac avec un délai de 3 secondes, tirant des larmes sur les ennemis à proximité.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Papa_Fly_icon.webp"
+    },
+    {
+        "id": "431",
+        "name": "Multidimensional Baby",
+        "description": "Crée un familier qui suivra les mouvements d'Isaac avec un délai de 2,5 secondes. Les larmes qui passent à travers le bébé seront doublées et augmenteront en vitesse.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Multidimensional_Baby_icon.webp"
+    },
+    {
+        "id": "432",
+        "name": "Glitter Bombs",
+        "description": "+5 Bombes. Les bombes ont une chance de laisser tomber des ramassages aléatoires ou de charmer les ennemis lorsqu'elles explosent.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Glitter_Bombs_icon.webp"
+    },
+    {
+        "id": "435",
+        "name": "Lil Loki",
+        "description": "Crée un familier Loki qui suit Isaac et tire 4 larmes selon un motif en croix.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Loki_icon.webp"
+    },
+    {
+        "id": "436",
+        "name": "Milk!",
+        "description": "Crée un familier en verre qui se renverse sur le sol lorsqu'il est endommagé. Après que le lait se soit renversé, la cadence de tir d'Isaac est augmentée de 1 pour la salle actuelle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Milk_icon.webp"
+    },
+    {
+        "id": "437",
+        "name": "D7",
+        "description": "Redémarre la pièce actuelle et ramène tous les ennemis, permettant d'obtenir plus de récompenses en terminant la pièce.",
+        "unlock": "De base",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_D7_icon.webp"
+    },
+    {
+        "id": "440",
+        "name": "Kidney Stone",
+        "description": "De façon aléatoire lorsqu'il tire des larmes, Isaac cessera de tirer et deviendra rouge, où il chargera et relâchera beaucoup de larmes en une seule fois. Le déluge de larmes inclut également un calcul rénal, qui inflige beaucoup de dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Kidney_Stone_icon.webp"
+    },
+    {
+        "id": "443",
+        "name": "Apple!",
+        "description": "+0,3 de cadence de tir. Ajoute une chance de tirer une lame de rasoir qui inflige 4 fois les dégâts d'Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Apple_icon.webp"
+    },
+    {
+        "id": "444",
+        "name": "Lead Pencil",
+        "description": "Après chaque 15 larmes tirées, Isaac tirera un groupe de larmes à haut dégât.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Lead_Pencil_icon.webp"
+    },
+    {
+        "id": "445",
+        "name": "Dog Tooth",
+        "description": "+0,3 de dégâts, +0,1 de vitesse. Joue un son de hurlement ou d'aboiement lors de l'entrée dans une salle avec des Salles Secrètes ou des trappes avec échelles non découverts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Dog_Tooth_icon.webp"
+    },
+    {
+        "id": "446",
+        "name": "Dead Tooth",
+        "description": "Lorsqu'il tire, Isaac gagne une aura verte qui empoisonne les ennemis à proximité.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Dead_Tooth_icon.webp"
+    },
+    {
+        "id": "447",
+        "name": "Linger Bean",
+        "description": "Tirer constamment provoque chez Isaac la libération de nuages de gaz qui peuvent être poussés par ses larmes et endommager les ennemis à proximité.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Linger_Bean_icon.webp"
+    },
+    {
+        "id": "448",
+        "name": "Shard of Glass",
+        "description": "Lorsqu'il subit des dégâts, Isaac saigne, projetant un volée de sang dans la direction où il tire. Le saignement finira par lui infliger des dégâts, mais il peut être arrêté en ramassant un cœur rouge.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Shard_of_Glass_icon.webp"
+    },
+    {
+        "id": "449",
+        "name": "Metal Plate",
+        "description": "Accorde un cœur d'âme. Les tirs ennemis ont une chance d'être renvoyés vers le tireur sous forme de larmes confuses.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Metal_Plate_icon.webp"
+    },
+    {
+        "id": "452",
+        "name": "Varicose Veins",
+        "description": "Lorsqu'il subit des dégâts, Isaac libère un anneau de 10 larmes à hauts dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Varicose_Veins_icon.webp"
+    },
+    {
+        "id": "453",
+        "name": "Compound Fracture",
+        "description": "Augmente la portée. Les larmes se transforment en os, qui se brisent en 1 à 3 éclats d'os lorsqu'ils touchent un ennemi ou un obstacle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Compound_Fracture_icon.webp"
+    },
+    {
+        "id": "454",
+        "name": "Polydactyly",
+        "description": "Permet à Isaac de transporter deux cartes, pilules ou une combinaison des deux. Fait apparaître une carte, rune ou pilule aléatoire.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Polydactyly_icon.webp"
+    },
+    {
+        "id": "457",
+        "name": "Cone Head",
+        "description": "Accorde un cœur d'âme. Donne à Isaac une chance d'ignorer tout dégât subi.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Cone_Head_icon.webp"
+    },
+    {
+        "id": "458",
+        "name": "Belly Button",
+        "description": "fait apparraitre une breloque aléatoire. Accorde un deuxième emplacement de breloque.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Belly_Button_icon.webp"
+    },
+    {
+        "id": "459",
+        "name": "Sinus Infection",
+        "description": "Ajoute une chance de tirer un morve qui colle aux ennemis et leur inflige des dégâts sur la durée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Sinus_Infection_icon.webp"
+    },
+    {
+        "id": "460",
+        "name": "Glaucoma",
+        "description": "Ajoute une chance de tirer des larmes qui rend confus les ennemis pendant un temps extrêmement long.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Glaucoma_icon.webp"
+    },
+    {
+        "id": "461",
+        "name": "Parasitoid",
+        "description": "Ajoute une chance de tirer un sac d'œuf qui crée une traînée de substance gluante ralentissante et fait apparaître une mouche bleue ou une araignée bleue lorsqu'il touche un ennemi.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Parasitoid_icon.webp"
+    },
+    {
+        "id": "463",
+        "name": "Sulfuric Acid",
+        "description": "+0,3 de dégâts. Ajoute une chance de tirer des larmes acides qui peuvent détruire les obstacles et ouvrir les portes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Sulfuric_Acid_icon.webp"
+    },
+    {
+        "id": "465",
+        "name": "Analog Stick",
+        "description": "+0,35 de cadence de tir. Permet à Isaac de tirer des larmes en diagonale.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Analog_Stick_icon.webp"
+    },
+    {
+        "id": "466",
+        "name": "Contagion",
+        "description": "Le premier ennemi tué dans une salle explose et empoisonne les ennemis à proximité. Les ennemis empoisonnés exploseront également à leur mort.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Contagion_icon.webp"
+    },
+    {
+        "id": "467",
+        "name": "Finger!",
+        "description": "Crée un familier doigt qui pointe les ennemis, infligeant des dégâts évolutifs.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Finger_icon.webp"
+    },
+    {
+        "id": "469",
+        "name": "Depression",
+        "description": "Crée un familier qui laisse une traînée de substance gluante qui inflige des dégâts aux ennemis à 6 points par seconde. Il a une chance de faire apparaître des faisceaux de lumière endommageants sur les ennemis qui touchent le nuage.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Depression_icon.webp"
+    },
+    {
+        "id": "470",
+        "name": "Hushy",
+        "description": "Crée un familier Hush qui rebondit en diagonale dans la salle et inflige des dégâts au contact. Lorsqu'il tire des larmes, il cesse de bouger.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Hushy_icon.webp"
+    },
+    {
+        "id": "471",
+        "name": "Lil Monstro",
+        "description": "Crée un familier qui tire des grappes de larmes. Doit être chargé avant de tirer.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Monstro_icon.webp"
+    },
+    {
+        "id": "473",
+        "name": "Big Chubby",
+        "description": "Crée un familier qui suit Isaac et charge à travers la salle lorsque Isaac tire, bloquant les tirs et infligeant 40,5 points de dégâts par seconde au contact.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Big_Chubby_icon.webp"
+    },
+    {
+        "id": "476",
+        "name": "D1",
+        "description": "Duplique un ramassage (clés, pièces, bombes, ... ) aléatoire dans la pièce. Le nouvelle objet peut être différent de l'original (c'est-à-dire une carte différente, etc.).",
+        "unlock": "Débloquez cet objet en vainquant Greedier en tant que Isaac.",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_D1_icon.webp"
+    },
+    {
+        "id": "478",
+        "name": "Pause",
+        "description": "Gèle tous les ennemis jusqu'à ce qu'un bouton de tir soit pressé.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Pause_icon.webp"
+    },
+    {
+        "id": "481",
+        "name": "Dataminer",
+        "description": "Déplace les sprites ennemis pour la pièce actuelle, augmente aléatoirement une statistique et en diminue une autre.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Dataminer_icon.webp"
+    },
+    {
+        "id": "482",
+        "name": "Clicker",
+        "description": "Transforme Isaac en un personnage aléatoire et supprime le dernier objet collecté.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Clicker_icon.webp"
+    },
+    {
+        "id": "484",
+        "name": "Wait What?",
+        "description": "Isaac pète, envoyant des ondes de choc.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Wait_What_icon.webp"
+    },
+    {
+        "id": "485",
+        "name": "Crooked Penny",
+        "description": "Fait apparaître un penny et a une chance de 50% de doubler tous les objets et ramassages dans la pièce. Si l'effet échoue, les objets et ramassages disparaissent.",
+        "unlock": "Débloquez cet objet en vainquant Délirium dans le void en tant que Keeper.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Crooked_Penny_icon.webp"
+    },
+    {
+        "id": "488",
+        "name": "Metronome",
+        "description": "Accorde un effet d'objet aléatoire pour la pièce actuelle.",
+        "unlock": "Débloquez cet objet en vainquant Greedier en tant que Eden.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Metronome_icon.webp"
+    },
+    {
+        "id": "489",
+        "name": "D Infinity",
+        "description": "Agit comme n'importe quel objet de dé, et peut être changé en appuyant sur la touche de lâcher.",
+        "unlock": "Débloquez cet objet en vainquant Délirium dans le void en tant que Isaac.",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_D_Infinity_icon.webp"
+    },
+    {
+        "id": "491",
+        "name": "Acid Baby",
+        "description": "Crée un familier qui laisse tomber une pilule aléatoire toutes les 3 salles. En utilisant une pilule, tous les ennemis dans la salle sont empoisonnés.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Acid_Baby_icon.webp"
+    },
+    {
+        "id": "492",
+        "name": "YO LISTEN!",
+        "description": "+1 de chance. Crée un familier fée qui indique les Salles Secrètes, les entrées d'Espaces de Rampage et les rochers teintés.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_YO_LISTEN_icon.webp"
+    },
+    {
+        "id": "493",
+        "name": "Adrenaline",
+        "description": "Augmente les dégâts en fonction du nombre de conteneurs de cœur rouges vides qu'Isaac possède.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Aiguille",
+        "image": "./img/items/Collectible_Adrenaline_icon.webp"
+    },
+    {
+        "id": "494",
+        "name": "Jacob's Ladder",
+        "description": "Les larmes tirent des étincelles d'électricité dans des directions aléatoires lorsqu'elles touchent un obstacle ou un ennemi.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Jacobs_Ladder_icon.webp"
+    },
+    {
+        "id": "495",
+        "name": "Ghost Pepper",
+        "description": "Donne une chance de tirer des feux bleus en même temps que les larmes, qui deviennent plus petits en voyageant.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Ghost_Pepper_icon.webp"
+    },
+    {
+        "id": "496",
+        "name": "Euthanasia",
+        "description": "Ajoute une chance de tirer des aiguilles qui tuent instantanément les ennemis de base et infligent des dégâts triples aux boss. Si une aiguille tue un ennemi, elle éclate en plus de larmes/aiguilles.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Aiguille",
+        "image": "./img/items/Collectible_Euthanasia_icon.webp"
+    },
+    {
+        "id": "497",
+        "name": "Camo Undies",
+        "description": "Isaac devient camouflé au début de chaque salle. Jusqu'à ce qu'il tire, tous les ennemis non-boss seront confus. Isaac gagne +0,5 de vitesse lorsqu'il est camouflé, et gagne en cadence de tir et en dégâts en brisant le camouflage.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Camo_Undies_icon.webp"
+    },
+    {
+        "id": "502",
+        "name": "Large Zit",
+        "description": "Ajoute une chance de tirer un tir de substance gluante qui inflige des dégâts doublés et laisse une traînée de substance gluante blanche ralentissante.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Large_Zit_icon.webp"
+    },
+    {
+        "id": "504",
+        "name": "Brown Nugget",
+        "description": "Fait apparaître une tourelle de mouche stationnaire qui dure pour la pièce actuelle et tire des larmes sur les ennemis à proximité.",
+        "unlock": "Débloquez cet objet en vainquant Ultra Greed en tant que Apollyon.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Brown_Nugget_icon.webp"
+    },
+    {
+        "id": "506",
+        "name": "Backstabber",
+        "description": "Les larmes d'Isaac infligent des dégâts doublés et provoquent un saignement chez les ennemis si Isaac leur tire dans le dos.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Backstabber_icon.webp"
+    },
+    {
+        "id": "507",
+        "name": "Sharp Straw",
+        "description": "Endommage tous les ennemis dans la pièce. A une chance de laisser tomber un demi-cœur rouge si un ennemi est touché.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Sharp_Straw_icon.webp"
+    },
+    {
+        "id": "508",
+        "name": "Mom's Razor",
+        "description": "Fait apparaître un rasoir en orbite qui inflige des dégâts de contact et inflige des saignements aux ennemis, les faisant lentement subir des dégâts au fil du temps.",
+        "unlock": "Feature comming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Moms_Razor_icon.webp"
+    },
+    {
+        "id": "509",
+        "name": "Bloodshot Eye",
+        "description": "Crée un familier orbital qui inflige 30 points de dégâts par seconde et tire une larme dans une direction aléatoire toutes les 2 secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Bloodshot_Eye_icon.webp"
+    },
+    {
+        "id": "511",
+        "name": "Angry Fly",
+        "description": "Crée un familier mouche qui orbite autour d'un ennemi aléatoire et inflige 30 points de dégâts par seconde aux ennemis qu'il touche.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Mouche",
+        "image": "./img/items/Collectible_Angry_Fly_icon.webp"
+    },
+    {
+        "id": "512",
+        "name": "Black Hole",
+        "description": "Lance un trou noir sur le sol qui aspire et endommage les ennemis.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Black_Hole_icon.webp"
+    },
+    {
+        "id": "513",
+        "name": "Bozo",
+        "description": "+0,1 de dégâts fixes, accorde un cœur d'âme. Les ennemis peuvent devenir brièvement charmés ou effrayés de manière aléatoire. Subir des dégâts a une chance de faire apparaître une crotte arc-en-ciel.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bozo_icon.webp"
+    },
+    {
+        "id": "516",
+        "name": "Sprinkler",
+        "description": "À l'utilisation, crée un arroseur stationnaire qui tourne et tire des larmes dans 8 directions. Les larmes copient les statistiques et la plupart des effets de larmes d'Isaac.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Sprinkler_icon.webp"
+    },
+    {
+        "id": "517",
+        "name": "Fast Bombs",
+        "description": "+7 Bombes. Supprime le délai entre les placements de bombes, ce qui permet de les placer rapidement. Les bombes ne se repoussent plus mutuellement.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Fast_Bombs_icon.webp"
+    },
+    {
+        "id": "522",
+        "name": "Telekinesis",
+        "description": "À l'utilisation, pour les trois prochaines secondes, tous les tirs ennemis qui s'approchent d'Isaac sont maintenus en place puis réfléchis plus tard.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Telekinesis_icon.webp"
+    },
+    {
+        "id": "524",
+        "name": "Technology Zero",
+        "description": "Relie les larmes d'Isaac avec de l'électricité qui peut endommager les ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Technology_Zero_icon.webp"
+    },
+    {
+        "id": "525",
+        "name": "Leprosy",
+        "description": "En cas de dégâts, accorde une partie du corps en tant qu'orbital, qui bloque les tirs ennemis et inflige 7 points de dégâts par tick aux ennemis qu'il touche. Les orbitales seront détruits s'ils subissent suffisamment de dégâts des ennemis ou des tirs ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Leprosy_icon.webp"
+    },
+    {
+        "id": "529",
+        "name": "Pop!",
+        "description": "Remplace les larmes d'Isaac par des globes oculaires qui peuvent rebondir les uns sur les autres. Les globes oculaires ne sont pas limités par la portée et se dissipent plutôt lorsqu'ils cessent de bouger ou lorsqu'ils heurtent un ennemi ou un obstacle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Pop_icon.webp"
+    },
+    {
+        "id": "531",
+        "name": "Haemolacria",
+        "description": "Les larmes sont maintenant tirées en arc. Lorsqu'elles atteignent le sol, un obstacle ou un ennemi, elles éclatent en de nombreuses larmes plus petites dans toutes les directions. Augmente le délai entre les larmes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Haemolacria_icon.webp"
+    },
+    {
+        "id": "532",
+        "name": "Lachryphagy",
+        "description": "Les larmes d'Isaac ralentissent en voyageant. Lorsqu'elles s'arrêtent ou frappent un obstacle, elles éclatent en 8 larmes dans toutes les directions. Les larmes peuvent être tirées dans d'autres larmes pour les nourrir, augmentant leurs dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Lachryphagy_icon.webp"
+    },
+    {
+        "id": "537",
+        "name": "Lil Spewer",
+        "description": "Laisse tomber une pilule aléatoire et crée un familier qui se charge et tire de la substance gluante. L'utilisation de pilules change le type de substance gluante.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Spewer_icon.webp"
+    },
+    {
+        "id": "539",
+        "name": "Mystery Egg",
+        "description": "Crée un familier œuf, qui se fissure pour libérer un monstre amical aléatoire lorsque Isaac est blessé. L'œuf se régénère lorsqu'il entre dans une autre salle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Mystery_Egg_icon.webp"
+    },
+    {
+        "id": "540",
+        "name": "Flat Stone",
+        "description": "Les larmes rebondissent sur le sol, créant des éclaboussures. Les éclaboussures infligent 25% des dégâts des larmes d'Isaac à tous les ennemis dans une petite zone.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Flat_Stone_icon.webp"
+    },
+    {
+        "id": "542",
+        "name": "Slipped Rib",
+        "description": "Crée un familier os qui tourne autour d'Isaac et renvoie les tirs ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Slipped_Rib_icon.webp"
+    },
+    {
+        "id": "543",
+        "name": "Hallowed Ground",
+        "description": "Fait apparaître un familier en caca blanc, qui se transforme en Caca Blanc lorsque Isaac est blessé. Le caca blanc a une aura qui augmente le taux de tir des larmes et peut bloquer les tirs ennemis. L'aura augmente également les dégâts de 20% et donne l'homéomorphie.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Hallowed_Ground_icon.webp"
+    },
+    {
+        "id": "544",
+        "name": "Pointy Rib",
+        "description": "Crée un familier os qui plane de va-et-vient devant Isaac, infligeant des dégâts égaux à ceux d'Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Pointy_Rib_icon.webp"
+    },
+    {
+        "id": "545",
+        "name": "Book of the Dead",
+        "description": "Crée un squelette amical, un Squelette Noir, une Mouche d'os, un Revenant, ou un os orbital pour chaque ennemi tué dans la pièce actuelle.",
+        "unlock": "Débloquez cet objet en vainquant Délirium en tant que L'Oublié.",
+        "type": "Activable & Livre",
+        "image": "./img/items/Book_of_the_Dead.webp"
+    },
+    {
+        "id": "548",
+        "name": "Jaw Bone",
+        "description": "Crée un familier qui vole à travers la salle tout en tirant, infligeant 7 points de dégâts au contact aux ennemis et récupérant les ramassages.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Jaw_Bone_icon.webp"
+    },
+    {
+        "id": "549",
+        "name": "Brittle Bones",
+        "description": "Remplace tous les conteneurs de cœur rouge par 6 cœurs d'os vides. Lorsqu'un cœur d'os est perdu, Isaac tire des os dans 8 directions et gagne définitivement une augmentation de la cadence de tir.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Brittle_Bones_icon.webp"
+    },
+    {
+        "id": "553",
+        "name": "Mucormycosis",
+        "description": "Donne à Isaac la chance de tirer des larmes de spores qui collent aux ennemis et explosent après quelques secondes, infligeant des dégâts et empoisonnant les ennemis à proximité et libérant plus de spores.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Mucormycosis.webp"
+    },
+    {
+        "id": "555",
+        "name": "Golden Razor",
+        "description": "Dépense cinq Pennies pour augmenter les dégâts d'Isaac de 1,2 pour la pièce actuelle.",
+        "unlock": "Debloquez cet objet en collectant 99 pièces et en les dépensant dans la même partie.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Golden_Razor_icon.webp"
+    },
+    {
+        "id": "557",
+        "name": "Fortune Cookie",
+        "description": "Donne à Isaac une prédiction, un Cœur d'âme, une carte, une rune ou un bibelot, similaire à une Machine à Prédiction. Les prédictions sont beaucoup plus susceptibles d'être données que tout autre chose.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Fortune_Cookie_icon.webp"
+    },
+    {
+        "id": "558",
+        "name": "Eye Sore",
+        "description": "Permet à Isaac de tirer occasionnellement des larmes supplémentaires dans des directions aléatoires pendant qu'il tire.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/Eye_Sore.webp"
+    },
+    {
+        "id": "559",
+        "name": "120 Volt",
+        "description": "Zappe à plusieurs reprises les ennemis proches d'Isaac.",
+        "unlock": "De base",
+        "type": "Passif",
+        "image": "./img/items/120_Volt.webp"
+    },
+    {
+        "id": "560",
+        "name": "It Hurts",
+        "description": "Lorsqu'Isaac subit des dégâts, il libère un anneau de larmes et augmente la cadence de tir pour la salle en cours.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_It_Hurts_icon.webp"
+    },
+    {
+        "id": "561",
+        "name": "Almond Milk",
+        "description": "Quadruple la cadence de tir, avec un multiplicateur de dégâts de x0,3. Chaque larme obtient un effet aléatoire qui modifie son mouvement.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Almond_Milk_icon.webp"
+    },
+    {
+        "id": "563",
+        "name": "Nancy Bombs",
+        "description": "+5 Bombes. Chaque bombe gagne 1-4 synergies de bombes aléatoires.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Nancy_Bombs_icon.webp"
+    },
+    {
+        "id": "565",
+        "name": "Blood Puppy",
+        "description": "Fait apparaître un familier qui poursuit les ennemis. Après avoir tué suffisamment d'ennemis, il devient plus puissant mais essaiera également de blesser Isaac. L'attaquer le ramène à la normale.",
+        "unlock": "Débloquez cet objet en vainquant Mother dans le Corpse II en tant que Lilith",
+        "type": "Passif & Familier",
+        "image": "./img/items/Blood_Puppy.webp"
+    },
+    {
+        "id": "570",
+        "name": "Playdough Cookie",
+        "description": "Donne des larmes multicolores. Chaque couleur a un statut différent ou un effet de larme.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Playdough_Cookie_icon.webp"
+    },
+    {
+        "id": "575",
+        "name": "The Intruder",
+        "description": "Un familier dans la tête d’Isaac, tirant 4 larmes de ralentissement. En prenant des dégâts, il y a une chance qu’il éclate de la tête du joueur, générant des araignées bleues et chassant des ennemis pour la salle actuelle.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_The_Intruder_icon.webp"
+    },
+    {
+        "id": "576",
+        "name": "Dirty Mind",
+        "description": "En détruisant les crottes, des familliers caca suit Isaac et inflige des dégâts aux ennemis. La destruction de différents types de caca génère différents Dips avec des effets spéciaux.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Dirty_Mind_icon.webp"
+    },
+    {
+        "id": "578",
+        "name": "Free Lemonade",
+        "description": "Crée une grande flaque de traînée jaune sous Isaac.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Free_Lemonade_icon.webp"
+    },
+    {
+        "id": "581",
+        "name": "Psy Fly",
+        "description": "Génère un familier orbital qui chasse et bloque les tirs ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Mouche",
+        "image": "./img/items/Collectible_Psy_Fly_icon.webp"
+    },
+    {
+        "id": "583",
+        "name": "Rocket in a Jar",
+        "description": "+5 Bombes. Si Isaac tire actuellement, placer une bombe va plutôt tirer une roquette explosive et rapide dans la direction vers laquelle il se dirige.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Rocket_in_a_Jar_icon.webp"
+    },
+    {
+        "id": "605",
+        "name": "The Scooper",
+        "description": "Invoque Le Peeper (l'oeil qui se balade) pour la pièce en cours, qui laisse une traînée de traînée rouge.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_The_Scooper_icon.webp"
+    },
+    {
+        "id": "607",
+        "name": "Boiled Baby",
+        "description": "Donne à Isaac un familier qui tire des éclats de larmes chaotiques dans toutes les directions. ",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Boiled_Baby_icon.webp"
+    },
+    {
+        "id": "608",
+        "name": "Freezer Baby",
+        "description": "Génère un familier de tir qui a une chance de pétrifier les ennemis et gèle les monstres en les tuant.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Freezer_Baby_icon.webp"
+    },
+    {
+        "id": "609",
+        "name": "Eternal D6",
+        "description": "Reroll tous les objets dans la salle. Chaque objet a 25% de chances de disparaître à la place.",
+        "unlock": "Débloquez cet objet en vainquant Mother dans le Corpse II en tant que ??? (Blue Baby).",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_Eternal_D6_icon.webp"
+    },
+    {
+        "id": "610",
+        "name": "Bird Cage",
+        "description": "La première fois qu’Isaac subit des dégâts dans une pièce, un familier bondit sur un ennemi, infligeant des dégâts et libérant une onde de roche. Pour le reste de la pièce, il poursuit des ennemis similaires à Dead Bird.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Bird_Cage_icon.webp"
+    },
+    {
+        "id": "611",
+        "name": "Larynx",
+        "description": "Isaac crie, endommageant et repoussant les ennemis à proximité. Le cri devient plus fort plus l'objet a de charges. Peut également être chargé en subissant des dégâts.",
+        "unlock": "Débloquez cet objet en vainquant The Beast en tant que Samson.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Larynx_icon.webp"
+    },
+    {
+        "id": "614",
+        "name": "Blood Bombs",
+        "description": "Octroie un Cœur Rouge et restaure 5 cœurs. Les bombes laissent derrière elles une traînée rouge dommageable. Isaac peut placer des bombes au prix d’un demi-cœur s’il n’en a pas.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Blood_Bombs_icon.webp"
+    },
+    {
+        "id": "615",
+        "name": "Lil Dumpy",
+        "description": "Génère un familier Dumpy qui repousse les ennemis proches et les projectiles juste avant qu’Isaac ne soit touché, puis s’endort. Il peut être réveillé en marchant vers lui.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Dumpy_icon.webp"
+    },
+    {
+        "id": "616",
+        "name": "Bird's Eye",
+        "description": "Donne une chance de tirer des tirs aux côtés des larmes qui bloquent les tirs ennemis et infligent des dégâts aux ennemis qui les touchent.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Birds_Eye_icon.webp"
+    },
+    {
+        "id": "617",
+        "name": "Lodestone",
+        "description": "Donne à Isaac la chance de tirer des larmes qui magnétisent les ennemis qu’ils ont touchés, ce qui les amène à attirer des ramassages et des ennemis à proximité, ainsi que des larmes / coups de toutes les sources.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Lodestone_icon.webp"
+    },
+    {
+        "id": "618",
+        "name": "Rotten Tomato",
+        "description": "Ajoute une chance de tirer des larmes qui marquent les ennemis avec l’effet de statut Appât. Les ennemis marqués comme appât sont attaqués par d’autres ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Rotten_Tomato_icon.webp"
+    },
+    {
+        "id": "625",
+        "name": "Mega Mush",
+        "description": "Rend Isaac gigantesque pendant 30 secondes, augmentant les dégâts et la portée tout en réduisant les larmes, accordant l'invulnérabilité et permettant à Isaac d'écraser les ennemis et les obstacles sur lesquels il marche. L'effet persiste entre les salles.",
+        "unlock": "Débloquez cet objet en finissant tous les objetifs en hard mode avec tous les personnages non tainted.",
+        "type": "Activable & Champignon",
+        "image": "./img/items/Collectible_Mega_Mush_icon.webp"
+    },
+    {
+        "id": "629",
+        "name": "Bot Fly",
+        "description": "Génère une mouche en orbite familière qui tire des larmes sur les projectiles ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Bot_Fly_icon.webp"
+    },
+    {
+        "id": "631",
+        "name": "Meat Cleaver",
+        "description": "Divise tous les ennemis dans la pièce en deux versions plus petites d'eux-mêmes avec beaucoup moins de santé.",
+        "unlock": "Débloquez cet objet en vainquant Mother dans le Corpse II en tant que Isaac.",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Meat_Cleaver_icon.webp"
+    },
+    {
+        "id": "635",
+        "name": "Stitches",
+        "description": "Fait apparaître passivement un familier qui se déplace dans la direction où Isaac tire. À l'utilisation, Isaac échange sa place avec le familier.",
+        "unlock": "De base",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Stitches_icon.webp"
+    },
+    {
+        "id": "637",
+        "name": "Knockout Drops",
+        "description": "Ajoute une chance de tirer une larme de poing qui a un recul extrêmement élevé et confond les ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Knockout_Drops_icon.webp"
+    },
+    {
+        "id": "639",
+        "name": "Yuck Heart",
+        "description": "Donne à Isaac un Cœur pourri.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Yuck_Heart_icon.webp"
+    },
+    {
+        "id": "641",
+        "name": "Akeldama",
+        "description": "Alors qu’il se trouve dans une salle non couverte, Isaac forme une traînée de larmes sanglantes qui traînent derrière lui, explosant et infligeant des dégâts au contact des ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Akeldama_icon.webp"
+    },
+    {
+        "id": "645",
+        "name": "Tinytoma",
+        "description": "Donne au joueur une orbite de tératome qui bloque les tirs, inflige des dégâts de contact et se divise en plus petites versions de lui-même en prenant des dégâts. Les versions plus petites se cassent en araignées bleues.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Tinytoma_icon.webp"
+    },
+    {
+        "id": "649",
+        "name": "Fruity Plum",
+        "description": "Donne à Isaac un Baby Plum miniature familier qui se propulse en diagonale dans la pièce, tirant des larmes derrière lui pendant son voyage.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Fruity_Plum_icon.webp"
+    },
+    {
+        "id": "650",
+        "name": "Plum Flute",
+        "description": "Invoque le boss Baby Plum (la mouche rouge) pour combattre pour Isaac dans la pièce actuelle.",
+        "unlock": "Feature m soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Plum_Flute_icon.webp"
+    },
+    {
+        "id": "652",
+        "name": "Cube Baby",
+        "description": "Génère un cube de glace familier qui glisse lorsqu’il est piétiné. Il ralentit et inflige des dégâts de contact, gelant les monstres qu’il tue.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Cube_Baby_icon.webp"
+    },
+    {
+        "id": "655",
+        "name": "Spin to Win",
+        "description": "Lorsqu'il est utilisé, donne à Isaac +0,5 de vitesse et augmente considérablement la vitesse de rotation des orbitaux d'Isaac pendant 3 secondes. Donne à Isaac un orbital en forme de toupie qui bloque les tirs ennemis et inflige des dégâts au contact aux ennemis tant qu'il est maintenu.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Spin_to_Win_icon.webp"
+    },
+    {
+        "id": "657",
+        "name": "Vasculitis",
+        "description": "Les ennemis explosent en larmes à la mort, qui héritent des effets des larmes d’Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Vasculitis_icon.webp"
+    },
+    {
+        "id": "658",
+        "name": "Giant Cell",
+        "description": "Le joueur fait apparaître des micro-isaacs quand il subit des dégâts, qui chassent et tirent sur les ennemis proches.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Giant_Cell_icon.webp"
+    },
+    {
+        "id": "661",
+        "name": "Quints",
+        "description": "Les cinq premiers ennemis tués dans une pièce font apparaître des familiers de tir stationnaires à l'endroit où ils sont morts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Quints_icon.webp"
+    },
+    {
+        "id": "663",
+        "name": "Tooth and Nail",
+        "description": "Isaac se transforme périodiquement en statue à pointes, devenant brièvement invulnérable et infligeant des dégâts de contact.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Tooth_and_Nail_icon.webp"
+    },
+    {
+        "id": "671",
+        "name": "Candy Heart",
+        "description": "Confère à Isaac une augmentation permanente de ses statistiques chaque fois qu'il se soigne à l'aide des récupérations de Cœur rouge.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Candy_Heart_icon.webp"
+    },
+    {
+        "id": "675",
+        "name": "Cracked Orb",
+        "description": "Déverrouille les portes et révèle une salle aléatoire sur la carte lorsque Isaac subit des dégâts.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Cracked_Orb_icon.webp"
+    },
+    {
+        "id": "676",
+        "name": "Empty Heart",
+        "description": "Si Isaac a un cœur rouge ou moins au début d'un étage, il gagne un récipient de cœur rouge vide.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Empty_Heart_icon.webp"
+    },
+    {
+        "id": "677",
+        "name": "Astral Projection",
+        "description": "Si Isaac est touché dans une salle non nettoyée, il se transforme en fantôme, lui donnant le vol et des larmes spectrales, et bloquant la prochaine attaque qu'il reçoit.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Astral_Projection_icon.webp"
+    },
+    {
+        "id": "678",
+        "name": "C Section",
+        "description": "Remplace les larmes par des fœtus qui poursuivent les ennemis et leur infligent des dégâts de contact. Chaque tir nécessite une courte charge.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_C_Section_icon.webp"
+    },
+    {
+        "id": "680",
+        "name": "Montezuma's Revenge",
+        "description": "Tout en tirant, Isaac charge un rayon diarrhéique de courte portée, semblable à Brimstone, qui tire derrière lui.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Montezumas_Revenge_icon.webp"
+    },
+    {
+        "id": "681",
+        "name": "Lil Portal",
+        "description": "Un familier qui vole vers l'avant, consommant les objets sur son chemin. Chacune d'entre elles augmentera sa taille et ses dégâts et fera apparaître une Mouche bleue. Tous les quatre pickups, il ouvre un portail qui mène à une salle inexplorée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Lil_Portal_icon.webp"
+    },
+    {
+        "id": "682",
+        "name": "Worm Friend",
+        "description": "Donne à Isaac un familier de 'fin de nerf' (les tentacules rouges)  qui sort du sol pour attraper les ennemis et leur infliger des dégâts sur la durée.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Familier",
+        "image": "./img/items/Collectible_Worm_Friend_icon.webp"
+    },
+    {
+        "id": "683",
+        "name": "Bone Spurs",
+        "description": "Les ennemis produisent des os flottants lorsqu'ils meurent, qui bloquent les tirs et endommagent/repoussent les ennemis qui les touchent.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bone_Spurs_icon.webp"
+    },
+    {
+        "id": "687",
+        "name": "Friend Finder",
+        "description": "Fait apparaître un monstre amical aléatoire qui imite les mouvements et les attaques d'Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Friend_Finder_icon.webp"
+    },
+    {
+        "id": "690",
+        "name": "Belly Jelly",
+        "description": "Fait rebondir les ennemis sur Isaac, leur infligeant des dégâts s'ils touchent un ennemi ou un obstacle. Il permet également à Isaac de dévier les tirs ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Belly_Jelly_icon.webp"
+    },
+    {
+        "id": "693",
+        "name": "The Swarm",
+        "description": "Donne naissance à huit mouches orbitales, qui se transforment en mouches bleues après avoir bloqué un tir. Chaque fois qu'une pièce est nettoyée, une autre mouche orbitale apparaît.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Mouche",
+        "image": "./img/items/Collectible_The_Swarm_icon.webp"
+    },
+    {
+        "id": "695",
+        "name": "Bloody Gust",
+        "description": "Les 6 premières fois où Isaac subit des dégâts sur un étage donné, il gagne de la Vitesse et de la Cadence de tir pour le reste de l'étage, jusqu'à un maximum de +1,02 et +3,00, respectivement.",
+        "unlock": "Feature comming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Bloody_Gust_icon.webp"
+    },
+    {
+        "id": "703",
+        "name": "Esau Jr.",
+        "description": "Échange entre le personnage actuel et Esau Jr., qui a +2 de dégâts fixes et le vol. Les personnages ont des objets et des points de vie indépendants. Mourir en tant que l'un ou l'autre personnage met fin à la partie.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Esau_Jr._icon.webp"
+    },
+    {
+        "id": "709",
+        "name": "Suplex!",
+        "description": "Isaac se précipite vers l'avant et ramasse le premier ennemi touché. Après un moment, il les projette au sol pour leur infliger des dégâts et créer une onde de choc circulaire.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Suplex_icon.webp"
+    },
+    {
+        "id": "710",
+        "name": "Bag of Crafting",
+        "description": "Collecte et retient jusqu'à 8 ramassages, qui peuvent ensuite être utilisés pour fabriquer un objet. Le niveau de puissance de l'objet est basé sur la qualité des ramassages utilisés.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Bag_of_Crafting_icon.webp"
+    },
+    {
+        "id": "713",
+        "name": "Sumptorium",
+        "description": "Retire la moitié d'un cœur et crée un familier de Caillot qui imite les mouvements et les effets de larmes d'Isaac. En tant qu'Ève souillée, convertit passivement la santé en Caillots lors du tir. L'activation ramène tous les Caillots à la santé.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Sumptorium_icon.webp"
+    },
+    {
+        "id": "717",
+        "name": "Keeper's Kin",
+        "description": "Les rochers et autres obstacles font apparaître des araignées bleues avec le temps lorsqu'ils se trouvent dans une salle avec des ennemis, et font apparaître deux araignées bleues lorsqu'ils sont détruits.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Keepers_Kin_icon.webp"
+    },
+    {
+        "id": "720",
+        "name": "Everything Jar",
+        "description": "Fait apparaître certains ramassages (clés, pièces, bombes, ...) en fonction du nombre de charges qu'il possède. S'il est entièrement chargé, a plutôt l'un des nombreux effets uniques.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Everything_Jar_icon.webp"
+    },
+    {
+        "id": "722",
+        "name": "Anima Sola",
+        "description": "Enchaîne l'ennemi le plus proche pendant 5 secondes, l'empêchant d'agir.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Anima_Sola_icon.webp"
+    },
+    {
+        "id": "723",
+        "name": "Spindown Dice",
+        "description": "Transforme tous les objets dans la salle en diminuant leur ID de 1.",
+        "unlock": "Feature coming soon",
+        "type": "Activable & Dés",
+        "image": "./img/items/Collectible_Spindown_Dice_icon.webp"
+    },
+    {
+        "id": "724",
+        "name": "Hypercoagulation",
+        "description": "Après qu'Isaac ait subi des dégâts d'un ennemi ou ait donné des points de vie, Isaac lance des cœurs rouges qui disparaissent au bout de 1,5 seconde.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Hypercoagulation_icon.webp"
+    },
+    {
+        "id": "725",
+        "name": "IBS",
+        "description": "Permet à Isaac de jeter du caca, de créer un effet tampon ou de lâcher des bombes lorsqu'il se bat contre des ennemis.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_IBS_icon.webp"
+    },
+    {
+        "id": "726",
+        "name": "Hemoptysis",
+        "description": "En appuyant deux fois sur le bouton de feu, Isaac éternue du sang et inflige des dégâts aux ennemis qui se trouvent devant lui. Les ennemis affectés sont maudits et subissent plus de dégâts avec les attaques de type Brimstone.",
+        "unlock": "Feature coming soon",
+        "type": "Passif",
+        "image": "./img/items/Collectible_Hemoptysis_icon.webp"
+    },
+    {
+        "id": "727",
+        "name": "Ghost Bombs",
+        "description": "+5 Bombes. Les bombes deviennent spectrales et engendrent des fantômes qui infligent des dégâts de contact aux ennemis et explosent au bout de 10 secondes.",
+        "unlock": "Feature coming soon",
+        "type": "Passif & Bombe",
+        "image": "./img/items/Collectible_Ghost_Bombs_icon.webp"
+    },
+    {
+        "id": "728",
+        "name": "Gello",
+        "description": "Fait apparaître un familier démon qui est attaché à Isaac et se déplace et tire dans la direction où Isaac tire, en utilisant les dégâts, les larmes, la portée, la vitesse de tir et les effets de larmes spéciaux d'Isaac.",
+        "unlock": "Feature coming soon",
+        "type": "Activable & Familier",
+        "image": "./img/items/Collectible_Gello_icon.webp"
+    },
+    {
+        "id": "729",
+        "name": "Decap Attack",
+        "description": "Lance la tête d'Isaac, qui peut toujours tirer des larmes à l'endroit où elle atterrit. Réactiver l'objet ou marcher sur la tête la réattache.",
+        "unlock": "Feature coming soon",
+        "type": "Activable",
+        "image": "./img/items/Collectible_Decap_Attack_icon.webp"
+    }
+]
