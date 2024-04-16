@@ -40,6 +40,6 @@ curl http://localhost:3000/treasure
 
 ### Deployement 
 
-The api is online you can acess by this link : [Versel](https://node-isaac-helper-igbj.vercel.app/)
+The api is online you can acess by this link : [Vercel](https://node-isaac-helper-igbj.vercel.app/)
 
 
