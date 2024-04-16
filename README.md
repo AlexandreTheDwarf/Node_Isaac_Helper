@@ -38,5 +38,8 @@ To get data about treasure room items, make a GET request to `/treasure`.
 curl http://localhost:3000/treasure
 ```
 
+### Deployement 
+
+The api is online you can acess by this link : [Versel](https://node-isaac-helper-igbj.vercel.app/)
 
 
